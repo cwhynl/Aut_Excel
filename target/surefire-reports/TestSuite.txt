@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 40.876 s <<< FAILURE! - in TestSuite
+f(com.Case.NewTest)  Time elapsed: 4.808 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.Case.NewTest.f(NewTest.java:14)
+
+f(com.Case.NewTest)  Time elapsed: 4.216 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.Case.NewTest.f(NewTest.java:14)
+
