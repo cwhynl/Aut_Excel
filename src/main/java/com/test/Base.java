@@ -456,7 +456,7 @@ public class Base {
 		}
 	@AfterMethod
 		public void failDeal(){
-		System.out.println("isFail的状态："+isFail);
+		print("isFail的状态："+isFail);
 			if(isFail){
 				result.put(readExcel.s,"F");
 				isFail=false;
