@@ -1,0 +1,3711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="29" total="50" passed="21">
+  <reporter-output>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:12:905点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:17:244控件：com.thetiger.ziwork:id/phone_e不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:21:046点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:26:559输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:33:066点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:37:154控件：com.thetiger.ziwork:id/edit_et不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:42:612控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:47:430控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:53:849通过坐标点击]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:25:58:195控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:02:778控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:12:911重启了app]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:16:604点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:20:965控件：com.thetiger.ziwork:id/phone_e不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:24:828点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:30:115输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:36:441点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:40:695控件：com.thetiger.ziwork:id/edit_et不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:46:027控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:50:203控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:26:59:511点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:05:883控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:10:832通过坐标点击]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:14:957控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:19:131控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:23:235控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:27:293控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:31:343控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:35:490控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:39:669控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:43:812控件：com.thetiger.ziwork:id/confirm不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:47:870控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:51:950控件：com.thetiger.ziwork:id/confirm不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:27:57:007控件：//android.widget.TextView[@text='设计']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:01:375控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:06:137控件：//android.widget.TextView[@text='UI']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:10:288控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:14:357控件：com.thetiger.ziwork:id/menu_common不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:18:465控件：com.thetiger.ziwork:id/content_et不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:22:575控件：com.thetiger.ziwork:id/menu_common不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:26:678控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:36:596重启了app]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:40:448点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:45:958输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:48:197点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:54:138输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:28:59:810点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:29:09:742重启了app]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 11:29:16:392点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="262426" started-at="2018-01-18T03:24:59Z" finished-at="2018-01-18T03:29:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="262426" started-at="2018-01-18T03:24:59Z" finished-at="2018-01-18T03:29:21Z">
+      <class name="com.Case.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="beforeSuite" is-config="true" duration-ms="3267" started-at="2018-01-18T11:24:56Z" finished-at="2018-01-18T11:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="BeforeClass" is-config="true" duration-ms="8917" started-at="2018-01-18T11:24:59Z" finished-at="2018-01-18T11:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1490" started-at="2018-01-18T11:25:11Z" data-provider="testing" finished-at="2018-01-18T11:25:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[注册(领新人礼包)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即进入]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/novice_gift_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:12:905点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:12Z" finished-at="2018-01-18T11:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4337" started-at="2018-01-18T11:25:12Z" data-provider="testing" finished-at="2018-01-18T11:25:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入手机号码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_e]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[随机]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:17:244控件：com.thetiger.ziwork:id/phone_e不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="3798" started-at="2018-01-18T11:25:17Z" data-provider="testing" finished-at="2018-01-18T11:25:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击获取验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:21:046点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:17Z" finished-at="2018-01-18T11:25:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:21Z" finished-at="2018-01-18T11:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5512" started-at="2018-01-18T11:25:21Z" data-provider="testing" finished-at="2018-01-18T11:25:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/input_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:26:559输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:26Z" finished-at="2018-01-18T11:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6491" started-at="2018-01-18T11:25:26Z" data-provider="testing" finished-at="2018-01-18T11:25:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/title_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:33:066点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:33Z" finished-at="2018-01-18T11:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4086" started-at="2018-01-18T11:25:33Z" data-provider="testing" finished-at="2018-01-18T11:25:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入姓名]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/edit_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[自客123456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:37:154控件：com.thetiger.ziwork:id/edit_et不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:37Z" finished-at="2018-01-18T11:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5458" started-at="2018-01-18T11:25:37Z" data-provider="testing" finished-at="2018-01-18T11:25:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入职位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.EditText[@text='如：文案达人']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[开发测试工程师]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:42:612控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:42Z" finished-at="2018-01-18T11:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4814" started-at="2018-01-18T11:25:42Z" data-provider="testing" finished-at="2018-01-18T11:25:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完成]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/submit_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/webview]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:47:430控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:47Z" finished-at="2018-01-18T11:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6419" started-at="2018-01-18T11:25:47Z" data-provider="testing" finished-at="2018-01-18T11:25:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击一键领取]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Strongclick]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:53:849通过坐标点击]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:53Z" finished-at="2018-01-18T11:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4343" started-at="2018-01-18T11:25:53Z" data-provider="testing" finished-at="2018-01-18T11:25:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击已购领取的小课]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:25:58:195控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:58Z" finished-at="2018-01-18T11:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4583" started-at="2018-01-18T11:25:58Z" data-provider="testing" finished-at="2018-01-18T11:26:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即播放]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/pause_btn]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:02:778控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="12133" started-at="2018-01-18T11:26:02Z" data-provider="testing" finished-at="2018-01-18T11:26:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[重启下app]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:12:911重启了app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:02Z" finished-at="2018-01-18T11:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:14Z" finished-at="2018-01-18T11:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1691" started-at="2018-01-18T11:26:14Z" data-provider="testing" finished-at="2018-01-18T11:26:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[注册(首页领新人福利)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即进入]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/novice_gift_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:16:604点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4359" started-at="2018-01-18T11:26:16Z" data-provider="testing" finished-at="2018-01-18T11:26:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入手机号码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_e]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[随机]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:20:965控件：com.thetiger.ziwork:id/phone_e不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:16Z" finished-at="2018-01-18T11:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="3862" started-at="2018-01-18T11:26:20Z" data-provider="testing" finished-at="2018-01-18T11:26:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击获取验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:24:828点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:20Z" finished-at="2018-01-18T11:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:24Z" finished-at="2018-01-18T11:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5285" started-at="2018-01-18T11:26:24Z" data-provider="testing" finished-at="2018-01-18T11:26:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/input_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:30:115输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T11:26:30Z" finished-at="2018-01-18T11:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6323" started-at="2018-01-18T11:26:30Z" data-provider="testing" finished-at="2018-01-18T11:26:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/title_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:36:441点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:36Z" finished-at="2018-01-18T11:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4251" started-at="2018-01-18T11:26:36Z" data-provider="testing" finished-at="2018-01-18T11:26:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入姓名]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/edit_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[自客123456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:40:695控件：com.thetiger.ziwork:id/edit_et不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:40Z" finished-at="2018-01-18T11:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5330" started-at="2018-01-18T11:26:40Z" data-provider="testing" finished-at="2018-01-18T11:26:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入职位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.EditText[@text='如：文案达人']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[开发测试工程师]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:46:027控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:46Z" finished-at="2018-01-18T11:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4176" started-at="2018-01-18T11:26:46Z" data-provider="testing" finished-at="2018-01-18T11:26:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完成]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/submit_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/webview]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:50:203控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="9306" started-at="2018-01-18T11:26:50Z" data-provider="testing" finished-at="2018-01-18T11:26:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击返回，出现大弹窗]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/home_banner_sdv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:26:59:511点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:50Z" finished-at="2018-01-18T11:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:26:59Z" finished-at="2018-01-18T11:26:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="2339" started-at="2018-01-18T11:26:59Z" data-provider="testing" finished-at="2018-01-18T11:27:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[出现弹窗，点掉]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/close_iv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ispopup]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:01Z" finished-at="2018-01-18T11:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4029" started-at="2018-01-18T11:27:01Z" data-provider="testing" finished-at="2018-01-18T11:27:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击首页新人大礼包占位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/home_middle_banner]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/webview]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:05:883控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:05Z" finished-at="2018-01-18T11:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4947" started-at="2018-01-18T11:27:05Z" data-provider="testing" finished-at="2018-01-18T11:27:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击一键领取]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Strongclick]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:10:832通过坐标点击]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4124" started-at="2018-01-18T11:27:10Z" data-provider="testing" finished-at="2018-01-18T11:27:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击已购领取的小课]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:14:957控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:10Z" finished-at="2018-01-18T11:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:14Z" finished-at="2018-01-18T11:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4175" started-at="2018-01-18T11:27:14Z" data-provider="testing" finished-at="2018-01-18T11:27:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即播放]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/pause_btn]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:19:131控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4101" started-at="2018-01-18T11:27:19Z" data-provider="testing" finished-at="2018-01-18T11:27:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[注册完之后认证自客（认证两步流程）]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[返回到详情]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/course_back_iv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/bottom_play_btn]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:23:235控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:19Z" finished-at="2018-01-18T11:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:23Z" finished-at="2018-01-18T11:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4059" started-at="2018-01-18T11:27:23Z" data-provider="testing" finished-at="2018-01-18T11:27:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[返回到首页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/course_back_iv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:27:293控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:27Z" finished-at="2018-01-18T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4047" started-at="2018-01-18T11:27:27Z" data-provider="testing" finished-at="2018-01-18T11:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击我的]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_mine]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/collection_siv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:31:343控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:31Z" finished-at="2018-01-18T11:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4147" started-at="2018-01-18T11:27:31Z" data-provider="testing" finished-at="2018-01-18T11:27:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完善信息]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/zike_info_container]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:35:490控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:35Z" finished-at="2018-01-18T11:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4177" started-at="2018-01-18T11:27:35Z" data-provider="testing" finished-at="2018-01-18T11:27:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击所在城市]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/belong_city_siv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:39:669控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T11:27:39Z" finished-at="2018-01-18T11:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4138" started-at="2018-01-18T11:27:39Z" data-provider="testing" finished-at="2018-01-18T11:27:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击确定]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:43:812控件：com.thetiger.ziwork:id/confirm不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:43Z" finished-at="2018-01-18T11:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4055" started-at="2018-01-18T11:27:43Z" data-provider="testing" finished-at="2018-01-18T11:27:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击工作年限]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/work_time_siv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:47:870控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:47Z" finished-at="2018-01-18T11:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4077" started-at="2018-01-18T11:27:47Z" data-provider="testing" finished-at="2018-01-18T11:27:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击确定]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:51:950控件：com.thetiger.ziwork:id/confirm不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:51Z" finished-at="2018-01-18T11:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5054" started-at="2018-01-18T11:27:51Z" data-provider="testing" finished-at="2018-01-18T11:27:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击选择一个技能类别]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.TextView[@text='设计']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:27:57:007控件：//android.widget.TextView[@text='设计']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:57Z" finished-at="2018-01-18T11:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4368" started-at="2018-01-18T11:27:57Z" data-provider="testing" finished-at="2018-01-18T11:28:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击技能标签]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/click_to_select_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:01:375控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:01Z" finished-at="2018-01-18T11:28:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4759" started-at="2018-01-18T11:28:01Z" data-provider="testing" finished-at="2018-01-18T11:28:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[37]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击选择UI]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.TextView[@text='UI']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:06:137控件：//android.widget.TextView[@text='UI']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:06Z" finished-at="2018-01-18T11:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4150" started-at="2018-01-18T11:28:06Z" data-provider="testing" finished-at="2018-01-18T11:28:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[38]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击确定]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:10:288控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:10Z" finished-at="2018-01-18T11:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4066" started-at="2018-01-18T11:28:10Z" data-provider="testing" finished-at="2018-01-18T11:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[39]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击下一步]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:14:357控件：com.thetiger.ziwork:id/menu_common不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4108" started-at="2018-01-18T11:28:14Z" data-provider="testing" finished-at="2018-01-18T11:28:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入自我介绍]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/content_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[我是一个非常非常优秀的游戏达人]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:18:465控件：com.thetiger.ziwork:id/content_et不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:14Z" finished-at="2018-01-18T11:28:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:18Z" finished-at="2018-01-18T11:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4110" started-at="2018-01-18T11:28:18Z" data-provider="testing" finished-at="2018-01-18T11:28:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[41]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完成，到成功页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/next_browse_action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:22:575控件：com.thetiger.ziwork:id/menu_common不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:22Z" finished-at="2018-01-18T11:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4101" started-at="2018-01-18T11:28:22Z" data-provider="testing" finished-at="2018-01-18T11:28:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[42]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击去首页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/next_browse_action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:26:678控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="11916" started-at="2018-01-18T11:28:26Z" data-provider="testing" finished-at="2018-01-18T11:28:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[重启下app]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:36:596重启了app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:26Z" finished-at="2018-01-18T11:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:28:38Z" finished-at="2018-01-18T11:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1849" started-at="2018-01-18T11:28:38Z" data-provider="testing" finished-at="2018-01-18T11:28:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[登录]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击手机号登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_login_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:40:448点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:28:40Z" finished-at="2018-01-18T11:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5508" started-at="2018-01-18T11:28:40Z" data-provider="testing" finished-at="2018-01-18T11:28:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入手机号码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[13700000000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:45:958输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:28:45Z" finished-at="2018-01-18T11:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="2237" started-at="2018-01-18T11:28:45Z" data-provider="testing" finished-at="2018-01-18T11:28:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[46]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击获取验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:48:197点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5941" started-at="2018-01-18T11:28:48Z" data-provider="testing" finished-at="2018-01-18T11:28:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[47]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/input_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:54:138输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:48Z" finished-at="2018-01-18T11:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:54Z" finished-at="2018-01-18T11:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5671" started-at="2018-01-18T11:28:54Z" data-provider="testing" finished-at="2018-01-18T11:28:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[48]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击登录，跳转首页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:28:59:810点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:59Z" finished-at="2018-01-18T11:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="11930" started-at="2018-01-18T11:28:59Z" data-provider="testing" finished-at="2018-01-18T11:29:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[重启下app]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:29:09:742重启了app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="5" started-at="2018-01-18T11:29:11Z" finished-at="2018-01-18T11:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4645" started-at="2018-01-18T11:29:11Z" data-provider="testing" finished-at="2018-01-18T11:29:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[微信登录]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击微信登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/wx_login_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 11:29:16:392点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:29:16Z" finished-at="2018-01-18T11:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="afterClass" is-config="true" duration-ms="5504" started-at="2018-01-18T11:29:16Z" finished-at="2018-01-18T11:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="afterSuite" is-config="true" duration-ms="52" started-at="2018-01-18T11:29:21Z" finished-at="2018-01-18T11:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Case.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

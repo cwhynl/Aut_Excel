@@ -7,7 +7,7 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import com.test.ExcelUtil;
 public class readExcel extends ExcelUtil {
-
+public static String s="";
 	/**
 	 * 读取数据，每一列的数据
 	 * @param a 第a列

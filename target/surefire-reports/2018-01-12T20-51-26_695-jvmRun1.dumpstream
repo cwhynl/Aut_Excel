@@ -1,0 +1,113 @@
+# Created on 2018-01-12T20:52:38.165
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2018-01-12T20:52:40.700
+Unexpected IOException with stream: 在：2018-01-12 20:52:40:698com.thetiger.ldd:id/welcome_btn控件不存在
+
+
+# Created on 2018-01-12T20:52:40.720
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:392 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-12T20:52:40.724
+Unexpected IOException: 5,1,com.Case.NewTest,f(com.Case.NewTest),com.Case.NewTest,null,null
+
+
+# Created on 2018-01-12T20:52:40.725
+Unexpected IOException with stream: 2
+
+# Created on 2018-01-12T20:52:40.727
+Unexpected IOException with stream: 
+
+
+# Created on 2018-01-12T20:52:40.728
+Unexpected IOException with stream: com.thetiger.ldd:id/phone_et:13726789678
+
+
+# Created on 2018-01-12T20:52:44.229
+Unexpected IOException with stream: 在：2018-01-12 20:52:44:228com.thetiger.ldd:id/phone_et控件不存在
+
+
+# Created on 2018-01-12T20:52:44.233
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:399 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-12T20:52:44.234
+Unexpected IOException: 5,1,com.Case.NewTest,f(com.Case.NewTest),com.Case.NewTest,null,null
+
+
+# Created on 2018-01-12T20:52:44.236
+Unexpected IOException with stream: 1
+
+# Created on 2018-01-12T20:52:44.237
+Unexpected IOException with stream: 
+
+
+# Created on 2018-01-12T20:52:47.739
+Unexpected IOException with stream: 在：2018-01-12 20:52:47:738com.thetiger.ldd:id/action_sms_tv控件不存在
+
+
+# Created on 2018-01-12T20:52:47.741
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:392 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-12T20:52:47.743
+Unexpected IOException: 5,1,com.Case.NewTest,f(com.Case.NewTest),com.Case.NewTest,null,null
+
+
+# Created on 2018-01-12T20:52:47.745
+Unexpected IOException with stream: 2
+
+# Created on 2018-01-12T20:52:47.746
+Unexpected IOException with stream: 
+
+
+# Created on 2018-01-12T20:52:47.748
+Unexpected IOException with stream: com.thetiger.ldd:id/sms_code_et:1111
+
+
+# Created on 2018-01-12T20:52:51.251
+Unexpected IOException with stream: 在：2018-01-12 20:52:51:250com.thetiger.ldd:id/sms_code_et控件不存在
+
+
+# Created on 2018-01-12T20:52:51.253
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:399 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-12T20:52:51.254
+Unexpected IOException: 5,1,com.Case.NewTest,f(com.Case.NewTest),com.Case.NewTest,null,null
+
+
+# Created on 2018-01-12T20:52:51.256
+Unexpected IOException with stream: 1
+
+# Created on 2018-01-12T20:52:51.259
+Unexpected IOException with stream: 
+
+
+# Created on 2018-01-12T20:52:54.763
+Unexpected IOException with stream: 在：2018-01-12 20:52:54:761com.thetiger.ldd:id/login_btn控件不存在
+
+
+# Created on 2018-01-12T20:52:54.765
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:392 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-12T20:52:54.769
+Unexpected IOException: 8,1,com.Case.NewTest,afterClass(com.Case.NewTest),null,null,null,null,NewTest>Base.afterClass:339 \00BB NullPointer,java.lang.NullPointerException\000A
+
+
+# Created on 2018-01-12T20:52:54.865
+Unexpected IOException: 9,1,com.Case.NewTest,afterSuite(com.Case.NewTest),null,null,null
+
+
+# Created on 2018-01-12T20:52:55.324
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

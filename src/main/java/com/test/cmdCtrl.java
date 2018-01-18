@@ -111,7 +111,7 @@ public class cmdCtrl {
 	 * @param args
 	 */
 	public static void openHtml(){
-		String cmd = "cmd.exe /C start D:\\Workspace\\ADD\\target\\surefire-reports\\html\\index.html";
+		String cmd = "cmd.exe /C start D:\\Workspace\\Aut\\target\\surefire-reports\\html\\index.html";
 		runCmd(cmd);
 	}
 	

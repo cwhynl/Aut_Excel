@@ -12,7 +12,7 @@
 <body>
 <h1>Test</h1>
 <p>
-  Test duration: 38.602s
+  Test duration: 263.028s
 </p>
 
 
@@ -25,28 +25,32 @@
             
 <tr>
   <td class="method">
-                  f
+                  testcase
       </td>
   <td class="duration">
-    4.218s
+    4.088s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">"5", "注册", "点击登录", "com.thetiger.ldd:id/login_btn", "click", "com.thetiger.ldd:id/elite_rl", ""</span><br />
+          <i>Method arguments: </i><span class="arguments">"26", "", "点击立即播放", "com.thetiger.ziwork:id/guide_bottom_ly", "click", "com.thetiger.ziwork:id/pause_btn", "F"</span><br />
     
             <div class="testOutput">
-                        在：2017-12-01 18:47:29:523com.thetiger.ldd:id/login_btn控件不存在<br />
+                        在：2018-01-18 10:47:22:432控件：com.thetiger.ziwork:id/guide_bottom_ly不存在<br />
                   </div>
     
 
-        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.NullPointerException</b></a><br />
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
     <div class="stackTrace" id="exception-0">
-              com.test.Base.dealData(Base.java:378)<br />
-              com.Case.NewTest.f(NewTest.java:14)<br />
-              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
-              sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)<br />
-              sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)<br />
-              java.lang.reflect.Method.invoke(Unknown Source)<br />
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
               org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
               org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
               org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
@@ -75,28 +79,1497 @@
 </tr>
 <tr>
   <td class="method">
-                  f
+                  testcase
       </td>
   <td class="duration">
-    4.789s
+    4.001s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">"4", "验证", "输入验证码", "com.thetiger.ldd:id/sms_code_et", "input", "1111", ""</span><br />
+          <i>Method arguments: </i><span class="arguments">"23", "", "点击首页新人大礼包占位", "com.thetiger.ziwork:id/home_middle_banner", "click", "com.thetiger.ziwork:id/webview", "F"</span><br />
     
             <div class="testOutput">
-                        在：2017-12-01 18:47:25:284com.thetiger.ldd:id/sms_code_et控件不存在<br />
+                        在：2018-01-18 10:47:09:365控件：com.thetiger.ziwork:id/home_middle_banner不存在<br />
                   </div>
     
 
-        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>java.lang.NullPointerException</b></a><br />
+        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
     <div class="stackTrace" id="exception-1">
-              com.test.Base.dealData(Base.java:382)<br />
-              com.Case.NewTest.f(NewTest.java:14)<br />
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.100s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"32", "", "点击确定", "com.thetiger.ziwork:id/confirm", "click", "com.thetiger.ziwork:id/menu_common", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:46:915控件：com.thetiger.ziwork:id/confirm不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-2', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-2">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.756s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"35", "", "点击选择一个技能类别", "//android.widget.TextView[@text='设计']", "click", "com.thetiger.ziwork:id/menu_common", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:59:744控件：//android.widget.TextView[@text=&apos;设计&apos;]不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-3', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-3">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.777s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"7", "", "个人资料输入职位", "//android.widget.EditText[@text='如：文案达人']", "input", "开发测试工程师", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:44:679控件：//android.widget.EditText[@text=&apos;如：文案达人&apos;]不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-4', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-4">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:405)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
               sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
-              sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)<br />
-              sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)<br />
-              java.lang.reflect.Method.invoke(Unknown Source)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.342s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"18", "", "个人资料输入姓名", "com.thetiger.ziwork:id/edit_et", "input", "自客123456", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:43:959控件：com.thetiger.ziwork:id/edit_et不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-5', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-5">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:405)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.167s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"6", "", "个人资料输入姓名", "com.thetiger.ziwork:id/edit_et", "input", "自客123456", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:39:902控件：com.thetiger.ziwork:id/edit_et不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-6', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-6">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:405)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    5.036s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"19", "", "个人资料输入职位", "//android.widget.EditText[@text='如：文案达人']", "input", "开发测试工程师", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:48:994控件：//android.widget.EditText[@text=&apos;如：文案达人&apos;]不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-7', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-7">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:405)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.348s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"2", "", "输入手机号码", "com.thetiger.ziwork:id/phone_e", "input", "随机", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:19:687控件：com.thetiger.ziwork:id/phone_e不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-8', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-8">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:402)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.157s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"40", "", "输入自我介绍", "com.thetiger.ziwork:id/content_et", "input", "我是一个非常非常优秀的游戏达人", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:21:060控件：com.thetiger.ziwork:id/content_et不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-9', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-9">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:405)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.049s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"34", "", "点击确定", "com.thetiger.ziwork:id/confirm", "click", "com.thetiger.ziwork:id/menu_common", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:54:986控件：com.thetiger.ziwork:id/confirm不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-10', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-10">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.970s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"37", "", "点击选择UI", "//android.widget.TextView[@text='UI']", "click", "com.thetiger.ziwork:id/confirm_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:08:763控件：//android.widget.TextView[@text=&apos;UI&apos;]不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-11', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-11">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    3.978s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"30", "", "点击完善信息", "com.thetiger.ziwork:id/zike_info_container", "click", "com.thetiger.ziwork:id/menu_common", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:38:728控件：com.thetiger.ziwork:id/zike_info_container不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-12', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-12">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.107s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"38", "", "点击确定", "com.thetiger.ziwork:id/confirm_tv", "click", "com.thetiger.ziwork:id/menu_common", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:12:871控件：com.thetiger.ziwork:id/confirm_tv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-13', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-13">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.048s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"36", "", "点击技能标签", "com.thetiger.ziwork:id/click_to_select_tv", "click", "com.thetiger.ziwork:id/confirm_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:03:792控件：com.thetiger.ziwork:id/click_to_select_tv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-14', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-14">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.125s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"41", "", "点击完成，到成功页", "com.thetiger.ziwork:id/menu_common", "click", "com.thetiger.ziwork:id/next_browse_action_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:25:188控件：com.thetiger.ziwork:id/menu_common不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-15', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-15">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.030s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"39", "", "点击下一步", "com.thetiger.ziwork:id/menu_common", "click", "com.thetiger.ziwork:id/action_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:16:903控件：com.thetiger.ziwork:id/menu_common不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-16', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-16">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.167s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"8", "", "点击完成", "com.thetiger.ziwork:id/submit_tv", "click", "com.thetiger.ziwork:id/webview", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:48:846控件：com.thetiger.ziwork:id/submit_tv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-17', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-17">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.020s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"33", "", "点击工作年限", "com.thetiger.ziwork:id/work_time_siv", "click", "com.thetiger.ziwork:id/confirm", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:50:935控件：com.thetiger.ziwork:id/work_time_siv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-18', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-18">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.726s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"11", "", "点击立即播放", "com.thetiger.ziwork:id/guide_bottom_ly", "click", "com.thetiger.ziwork:id/pause_btn", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:04:511控件：com.thetiger.ziwork:id/guide_bottom_ly不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-19', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-19">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.084s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"31", "", "点击所在城市", "com.thetiger.ziwork:id/belong_city_siv", "click", "com.thetiger.ziwork:id/confirm", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:42:813控件：com.thetiger.ziwork:id/belong_city_siv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-20', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-20">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.086s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"25", "", "点击已购领取的小课", "com.thetiger.ziwork:id/guide_target_view", "click", "com.thetiger.ziwork:id/guide_bottom_ly", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:18:342控件：com.thetiger.ziwork:id/guide_target_view不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-21', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-21">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.330s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"20", "", "点击完成", "com.thetiger.ziwork:id/submit_tv", "click", "com.thetiger.ziwork:id/webview", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:53:325控件：com.thetiger.ziwork:id/submit_tv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-22', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-22">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.748s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"10", "", "点击已购领取的小课", "com.thetiger.ziwork:id/guide_target_view", "click", "com.thetiger.ziwork:id/guide_bottom_ly", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:59:785控件：com.thetiger.ziwork:id/guide_target_view不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-23', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-23">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.056s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"28", "", "返回到首页", "com.thetiger.ziwork:id/course_back_iv", "click", "com.thetiger.ziwork:id/main_tab_home", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:30:606控件：com.thetiger.ziwork:id/course_back_iv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-24', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-24">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    3.994s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"42", "", "点击去首页", "com.thetiger.ziwork:id/next_browse_action_tv", "click", "com.thetiger.ziwork:id/main_tab_home", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:29:185控件：com.thetiger.ziwork:id/next_browse_action_tv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-25', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-25">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    5.075s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"14", "", "输入手机号码", "com.thetiger.ziwork:id/phone_e", "input", "随机", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:23:706控件：com.thetiger.ziwork:id/phone_e不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-26', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-26">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:402)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.142s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"29", "", "点击我的", "com.thetiger.ziwork:id/main_tab_mine", "click", "com.thetiger.ziwork:id/collection_siv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:34:749控件：com.thetiger.ziwork:id/main_tab_mine不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-27', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-27">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:782)<br />
+              org.testng.TestRunner.run(TestRunner.java:632)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:366)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:268)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1169)<br />
+              org.testng.TestNG.run(TestNG.java:1064)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.119s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"27", "注册完之后认证自客（认证两步流程）", "返回到详情", "com.thetiger.ziwork:id/course_back_iv", "click", "com.thetiger.ziwork:id/bottom_play_btn", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:26:551控件：com.thetiger.ziwork:id/course_back_iv不存在<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-28', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [true] but found [false]</b></a><br />
+    <div class="stackTrace" id="exception-28">
+              org.testng.Assert.fail(Assert.java:94)<br />
+              org.testng.Assert.failNotEquals(Assert.java:513)<br />
+              org.testng.Assert.assertTrue(Assert.java:42)<br />
+              org.testng.Assert.assertTrue(Assert.java:52)<br />
+              com.test.Base.findEl(Base.java:229)<br />
+              com.test.Base.dealData(Base.java:395)<br />
+              com.Case.NewTest.testcase(NewTest.java:15)<br />
+              sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
               org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)<br />
               org.testng.internal.Invoker.invokeMethod(Invoker.java:643)<br />
               org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)<br />
@@ -134,14 +1607,14 @@
             
 <tr>
   <td class="method">
-                  f
+                  testcase
       </td>
   <td class="duration">
-    1.704s
+    2.344s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">"1", "登录", "点击立即进入", "com.thetiger.ldd:id/welcome_btn", "click", "com.thetiger.ldd:id/phone_et", ""</span><br />
+          <i>Method arguments: </i><span class="arguments">"22", "", "出现弹窗，点掉", "com.thetiger.ziwork:id/close_iv", "ispopup", "com.thetiger.ziwork:id/main_tab_home", "F"</span><br />
     
         
 
@@ -149,31 +1622,361 @@
 </tr>
 <tr>
   <td class="method">
-                  f
+                  testcase
       </td>
   <td class="duration">
-    6.138s
+    3.922s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">"2", "", "输入手机号码", "com.thetiger.ldd:id/phone_et", "input", "13726789678", ""</span><br />
+          <i>Method arguments: </i><span class="arguments">"15", "", "点击获取验证码", "com.thetiger.ziwork:id/action_tv", "click", "com.thetiger.ziwork:id/action_tv", "P"</span><br />
     
-        
+            <div class="testOutput">
+                        在：2018-01-18 10:46:27:627点击了按钮：com.thetiger.ziwork:id/action_tv<br />
+                  </div>
+    
 
       </td>
 </tr>
 <tr>
   <td class="method">
-                  f
+                  testcase
       </td>
   <td class="duration">
-    1.738s
+    2.019s
   </td>
   <td class="result">
         
-          <i>Method arguments: </i><span class="arguments">"3", "", "点击获取验证码", "com.thetiger.ldd:id/action_sms_tv", "click", "", ""</span><br />
+          <i>Method arguments: </i><span class="arguments">"46", "", "点击获取验证码", "com.thetiger.ziwork:id/action_tv", "click", "com.thetiger.ziwork:id/action_tv", "F"</span><br />
     
+            <div class="testOutput">
+                        在：2018-01-18 10:48:51:749点击了按钮：com.thetiger.ziwork:id/action_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.961s
+  </td>
+  <td class="result">
         
+          <i>Method arguments: </i><span class="arguments">"50", "微信登录", "点击微信登录", "com.thetiger.ziwork:id/wx_login_tv", "click", "com.thetiger.ziwork:id/main_tab_home", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:49:19:138点击了按钮：com.thetiger.ziwork:id/wx_login_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    6.127s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"47", "", "输入验证码", "com.thetiger.ziwork:id/input_et", "input", "1111", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:57:876输入了内容<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    6.511s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"17", "", "点击登录", "com.thetiger.ziwork:id/login_phone_tv", "click", "com.thetiger.ziwork:id/title_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:39:617点击了按钮：com.thetiger.ziwork:id/login_phone_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    1.479s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"1", "注册(领新人礼包)", "点击立即进入", "com.thetiger.ziwork:id/novice_gift_tv", "click", "com.thetiger.ziwork:id/login_phone_tv", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:15:345点击了按钮：com.thetiger.ziwork:id/novice_gift_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    1.901s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"13", "注册(首页领新人福利)", "点击立即进入", "com.thetiger.ziwork:id/novice_gift_tv", "click", "com.thetiger.ziwork:id/login_phone_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:18:631点击了按钮：com.thetiger.ziwork:id/novice_gift_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    1.908s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"44", "登录", "点击手机号登录", "com.thetiger.ziwork:id/phone_login_tv", "click", "com.thetiger.ziwork:id/login_phone_tv", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:44:113点击了按钮：com.thetiger.ziwork:id/phone_login_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    6.190s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"9", "", "点击一键领取", "confirm", "Strongclick", "com.thetiger.ziwork:id/guide_target_view", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:55:037通过坐标点击<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    6.626s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"5", "", "点击登录", "com.thetiger.ziwork:id/login_phone_tv", "click", "com.thetiger.ziwork:id/title_tv", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:35:734点击了按钮：com.thetiger.ziwork:id/login_phone_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.890s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"24", "", "点击一键领取", "confirm", "Strongclick", "com.thetiger.ziwork:id/guide_target_view", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:14:256通过坐标点击<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    5.477s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"16", "", "输入验证码", "com.thetiger.ziwork:id/input_et", "input", "1111", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:33:104输入了内容<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.025s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"3", "", "点击获取验证码", "com.thetiger.ziwork:id/action_tv", "click", "com.thetiger.ziwork:id/action_tv", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:23:737点击了按钮：com.thetiger.ziwork:id/action_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    12.161s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"49", "", "重启下app", "restart", "restart", "", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:49:12:177重启了app<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    12.217s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"12", " ", "重启下app", "restart", "restart", "", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:46:14:729重启了app<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    5.370s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"4", "", "输入验证码", "com.thetiger.ziwork:id/input_et", "input", "1111", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:45:29:107输入了内容<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    5.615s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"45", "", "输入手机号码", "com.thetiger.ziwork:id/phone_et", "input", "13700000000", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:49:729输入了内容<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    4.122s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"48", "", "点击登录，跳转首页", "com.thetiger.ziwork:id/login_phone_tv", "click", "com.thetiger.ziwork:id/main_tab_home", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:49:01:999点击了按钮：com.thetiger.ziwork:id/login_phone_tv<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    9.692s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"21", "", "点击返回，出现大弹窗", "//android.widget.ImageButton[@content-desc='转到上一层级']", "click", "com.thetiger.ziwork:id/home_banner_sdv", "P"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:47:03:019点击了按钮：//android.widget.ImageButton[@content-desc=&apos;转到上一层级&apos;]<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  testcase
+      </td>
+  <td class="duration">
+    13.020s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">"43", " ", "重启下app", "restart", "restart", "", "F"</span><br />
+    
+            <div class="testOutput">
+                        在：2018-01-18 10:48:40:204重启了app<br />
+                  </div>
+    
 
       </td>
 </tr>

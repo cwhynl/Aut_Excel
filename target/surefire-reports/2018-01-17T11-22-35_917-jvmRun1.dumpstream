@@ -1,0 +1,17 @@
+# Created on 2018-01-17T11:27:24.941
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2018-01-17T11:27:26.833
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'USER-20170725RR'\002C ip: '192.168.5.89'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: AndroidDriver,null,org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'USER-20170725RR'\002C ip: '192.168.5.89'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: AndroidDriver,NewTest.f:14->Base.dealData:387->Base.el:123->Base.findById:216->Base.waitAuto:166 \00BB WebDriver,org.openqa.selenium.WebDriverException: \000Aorg.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'USER-20170725RR'\002C ip: '192.168.5.89'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: AndroidDriver\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000ACaused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000ACaused by: java.net.ConnectException: Connection refused: connect\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-17T11:27:26.833
+Unexpected IOException: 5,1,com.Case.NewTest,f(com.Case.NewTest),com.Case.NewTest,null,null
+
+

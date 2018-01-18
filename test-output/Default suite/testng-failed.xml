@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="com.Case.NewTest"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.Case.NewTest">
+        <methods>
+          <include name="BeforeClass"/>
+          <include name="afterClass"/>
+          <include name="beforeSuite"/>
+          <include name="testcase" invocation-numbers="1 5 6 7 9 10 13 17 18 19 22 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41"/>
+          <include name="failDeal"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.Case.NewTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

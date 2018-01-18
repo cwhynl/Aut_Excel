@@ -20,9 +20,6 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-
-
-
 public class ExcelUtil extends Base {
 	protected static String paths="testdata.xlsx";
 	private static InputStream is=null;
@@ -207,21 +204,10 @@ public class ExcelUtil extends Base {
 	
 	
 	public static void main(String[] args) {
-//		for(String s:getRows(0,1).keySet()){
-//			System.out.println(s+":"+getRows(0,1).get(s));
-//		}
-//       System.out.println("转换的数字0："+convert(0));
-       Map<String,String> m = new HashMap<String,String>();
-       m.put("1","one");
-       m.put("2","two");
-       m.put("3","three");
-       Object o[] =new Object[3];
-       o[0]=1;
-       o[1]=2;
-       o[2]=3;
-       for(int i=0;i<o.length;i++){
-       System.out.println(o[i]);
-       }
+		for(int i=0;i<getRowData(0,49).length;i++){
+			System.out.println(getRowData(0,23)[i]);
+		}
+     System.out.println(changeObject(0)[1][0]);
 	}
 
 }

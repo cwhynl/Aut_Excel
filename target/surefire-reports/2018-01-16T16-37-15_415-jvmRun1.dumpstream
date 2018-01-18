@@ -1,0 +1,21 @@
+# Created on 2018-01-16T16:43:25.009
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2018-01-16T16:43:28.279
+Unexpected IOException with stream: 在：2018-01-16 16:43:28:278com.thetiger.ziwork:id/work_time_siv控件不存在
+
+
+# Created on 2018-01-16T16:43:28.281
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:384 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-16T16:43:28.282
+Unexpected IOException: 5,1,com.Case.NewTest,f(com.Case.NewTest),com.Case.NewTest,null,null
+
+

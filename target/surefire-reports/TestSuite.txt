@@ -1,12 +1,120 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 40.876 s <<< FAILURE! - in TestSuite
-f(com.Case.NewTest)  Time elapsed: 4.808 s  <<< FAILURE!
-java.lang.NullPointerException
-	at com.Case.NewTest.f(NewTest.java:14)
+Tests run: 50, Failures: 29, Errors: 0, Skipped: 0, Time elapsed: 273.188 s <<< FAILURE! - in TestSuite
+testcase(com.Case.NewTest)  Time elapsed: 5.012 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
 
-f(com.Case.NewTest)  Time elapsed: 4.216 s  <<< FAILURE!
-java.lang.NullPointerException
-	at com.Case.NewTest.f(NewTest.java:14)
+testcase(com.Case.NewTest)  Time elapsed: 4.566 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 6.087 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.491 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.747 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 5.02 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.288 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.542 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 5.262 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.573 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.256 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.088 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.18 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.222 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.115 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 3.997 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.056 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.17 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.009 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.083 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.225 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.706 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.451 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 5.056 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.061 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.224 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.027 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.033 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
+
+testcase(com.Case.NewTest)  Time elapsed: 4.008 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Case.NewTest.testcase(NewTest.java:14)
 

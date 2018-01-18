@@ -1,0 +1,29 @@
+# Created on 2018-01-12T20:56:32.778
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2018-01-12T20:56:39.737
+Unexpected IOException with stream: 在：2018-01-12 20:56:39:735com.thetiger.ldd:id/login_btn控件不存在
+
+
+# Created on 2018-01-12T20:56:39.739
+Unexpected IOException: 8,1,com.Case.NewTest,f(com.Case.NewTest),null,null,null,null,NewTest.f:14->Base.dealData:396 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.Case.NewTest.f(NewTest.java:14)\000A
+
+
+# Created on 2018-01-12T20:56:40.763
+Unexpected IOException: 8,1,com.Case.NewTest,afterClass(com.Case.NewTest),null,org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'USER-20170725RR'\002C ip: '192.168.5.87'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: RemoteWebDriver,null,org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'USER-20170725RR'\002C ip: '192.168.5.87'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: RemoteWebDriver,NewTest>Base.afterClass:343 \00BB WebDriver org.apache.http.conn.HttpHostConnectEx...,org.openqa.selenium.WebDriverException: \000Aorg.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ABuild info: version: '3.4.0'\002C revision: 'unknown'\002C time: 'unknown'\000ASystem info: host: 'USER-20170725RR'\002C ip: '192.168.5.87'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: RemoteWebDriver\000ACaused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect\000ACaused by: java.net.ConnectException: Connection refused: connect\000A
+
+
+# Created on 2018-01-12T20:56:40.805
+Unexpected IOException: 9,1,com.Case.NewTest,afterSuite(com.Case.NewTest),null,null,null
+
+
+# Created on 2018-01-12T20:56:40.968
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

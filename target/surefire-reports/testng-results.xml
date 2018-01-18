@@ -1,27 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" total="5" passed="3">
+<testng-results skipped="0" failed="29" total="50" passed="21">
   <reporter-output>
     <line>
-      <![CDATA[在：2017-12-01 18:47:25:284com.thetiger.ldd:id/sms_code_et控件不存在]]>
+      <![CDATA[在：2018-01-18 10:45:15:345点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
     </line>
     <line>
-      <![CDATA[在：2017-12-01 18:47:29:523com.thetiger.ldd:id/login_btn控件不存在]]>
+      <![CDATA[在：2018-01-18 10:45:19:687控件：com.thetiger.ziwork:id/phone_e不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:23:737点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:29:107输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:35:734点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:39:902控件：com.thetiger.ziwork:id/edit_et不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:44:679控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:48:846控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:55:037通过坐标点击]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:45:59:785控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:04:511控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:14:729重启了app]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:18:631点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:23:706控件：com.thetiger.ziwork:id/phone_e不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:27:627点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:33:104输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:39:617点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:43:959控件：com.thetiger.ziwork:id/edit_et不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:48:994控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:46:53:325控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:03:019点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:09:365控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:14:256通过坐标点击]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:18:342控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:22:432控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:26:551控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:30:606控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:34:749控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:38:728控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:42:813控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:46:915控件：com.thetiger.ziwork:id/confirm不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:50:935控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:54:986控件：com.thetiger.ziwork:id/confirm不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:47:59:744控件：//android.widget.TextView[@text='设计']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:03:792控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:08:763控件：//android.widget.TextView[@text='UI']不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:12:871控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:16:903控件：com.thetiger.ziwork:id/menu_common不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:21:060控件：com.thetiger.ziwork:id/content_et不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:25:188控件：com.thetiger.ziwork:id/menu_common不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:29:185控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:40:204重启了app]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:44:113点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:49:729输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:51:749点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:48:57:876输入了内容]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:49:01:999点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:49:12:177重启了app]]>
+    </line>
+    <line>
+      <![CDATA[在：2018-01-18 10:49:19:138点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="33745" started-at="2017-12-01T10:46:57Z" finished-at="2017-12-01T10:47:31Z">
+  <suite name="Suite" duration-ms="265016" started-at="2018-01-18T02:44:58Z" finished-at="2018-01-18T02:49:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="33745" started-at="2017-12-01T10:46:57Z" finished-at="2017-12-01T10:47:31Z">
+    <test name="Test" duration-ms="265016" started-at="2018-01-18T02:44:58Z" finished-at="2018-01-18T02:49:23Z">
       <class name="com.Case.NewTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Case.NewTest@79be0360]" name="beforeSuite" is-config="true" duration-ms="5872" started-at="2017-12-01T18:46:51Z" finished-at="2017-12-01T18:46:57Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Case.NewTest@e320068]" name="beforeSuite" is-config="true" duration-ms="1148" started-at="2018-01-18T10:44:57Z" finished-at="2018-01-18T10:44:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.Case.NewTest@79be0360]" name="BeforeClass" is-config="true" duration-ms="12178" started-at="2017-12-01T18:46:57Z" finished-at="2017-12-01T18:47:09Z">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.Case.NewTest@e320068]" name="BeforeClass" is-config="true" duration-ms="12132" started-at="2018-01-18T10:44:58Z" finished-at="2018-01-18T10:45:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@79be0360]" name="f" duration-ms="1704" started-at="2017-12-01T18:47:10Z" data-provider="testing" finished-at="2017-12-01T18:47:12Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="1479" started-at="2018-01-18T10:45:13Z" data-provider="testing" finished-at="2018-01-18T10:45:15Z">
           <params>
             <param index="0">
               <value>
@@ -30,7 +171,7 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[登录]]>
+                <![CDATA[注册(领新人礼包)]]>
               </value>
             </param>
             <param index="2">
@@ -40,7 +181,7 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[com.thetiger.ldd:id/welcome_btn]]>
+                <![CDATA[com.thetiger.ziwork:id/novice_gift_tv]]>
               </value>
             </param>
             <param index="4">
@@ -50,19 +191,22 @@
             </param>
             <param index="5">
               <value>
-                <![CDATA[com.thetiger.ldd:id/phone_et]]>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
               </value>
             </param>
             <param index="6">
               <value>
-                <![CDATA[]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:15:345点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@79be0360]" name="f" duration-ms="6138" started-at="2017-12-01T18:47:12Z" data-provider="testing" finished-at="2017-12-01T18:47:18Z">
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4348" started-at="2018-01-18T10:45:15Z" data-provider="testing" finished-at="2018-01-18T10:45:19Z">
           <params>
             <param index="0">
               <value>
@@ -81,7 +225,7 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[com.thetiger.ldd:id/phone_et]]>
+                <![CDATA[com.thetiger.ziwork:id/phone_e]]>
               </value>
             </param>
             <param index="4">
@@ -91,19 +235,65 @@
             </param>
             <param index="5">
               <value>
-                <![CDATA[13726789678]]>
+                <![CDATA[随机]]>
               </value>
             </param>
             <param index="6">
               <value>
-                <![CDATA[]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:402)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:19:687控件：com.thetiger.ziwork:id/phone_e不存在]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@79be0360]" name="f" duration-ms="1738" started-at="2017-12-01T18:47:18Z" data-provider="testing" finished-at="2017-12-01T18:47:20Z">
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4025" started-at="2018-01-18T10:45:19Z" data-provider="testing" finished-at="2018-01-18T10:45:23Z">
           <params>
             <param index="0">
               <value>
@@ -122,7 +312,7 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[com.thetiger.ldd:id/action_sms_tv]]>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
               </value>
             </param>
             <param index="4">
@@ -132,19 +322,22 @@
             </param>
             <param index="5">
               <value>
-                <![CDATA[]]>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
               </value>
             </param>
             <param index="6">
               <value>
-                <![CDATA[]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:23:737点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="FAIL" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@79be0360]" name="f" duration-ms="4789" started-at="2017-12-01T18:47:20Z" data-provider="testing" finished-at="2017-12-01T18:47:25Z">
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="5370" started-at="2018-01-18T10:45:23Z" data-provider="testing" finished-at="2018-01-18T10:45:29Z">
           <params>
             <param index="0">
               <value>
@@ -153,7 +346,7 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[验证]]>
+                <![CDATA[]]>
               </value>
             </param>
             <param index="2">
@@ -163,7 +356,7 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[com.thetiger.ldd:id/sms_code_et]]>
+                <![CDATA[com.thetiger.ziwork:id/input_et]]>
               </value>
             </param>
             <param index="4">
@@ -178,52 +371,17 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at com.test.Base.dealData(Base.java:382)
-	at com.Case.NewTest.f(NewTest.java:14)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
-	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
-	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
-	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
             <line>
-              <![CDATA[在：2017-12-01 18:47:25:284com.thetiger.ldd:id/sms_code_et控件不存在]]>
+              <![CDATA[在：2018-01-18 10:45:29:107输入了内容]]>
             </line>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="FAIL" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@79be0360]" name="f" duration-ms="4218" started-at="2017-12-01T18:47:25Z" data-provider="testing" finished-at="2017-12-01T18:47:29Z">
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="6626" started-at="2018-01-18T10:45:29Z" data-provider="testing" finished-at="2018-01-18T10:45:35Z">
           <params>
             <param index="0">
               <value>
@@ -232,7 +390,7 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[注册]]>
+                <![CDATA[]]>
               </value>
             </param>
             <param index="2">
@@ -242,7 +400,7 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[com.thetiger.ldd:id/login_btn]]>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
               </value>
             </param>
             <param index="4">
@@ -252,24 +410,76 @@
             </param>
             <param index="5">
               <value>
-                <![CDATA[com.thetiger.ldd:id/elite_rl]]>
+                <![CDATA[com.thetiger.ziwork:id/title_tv]]>
               </value>
             </param>
             <param index="6">
               <value>
-                <![CDATA[]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
-          <exception class="java.lang.NullPointerException">
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:35:734点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4167" started-at="2018-01-18T10:45:35Z" data-provider="testing" finished-at="2018-01-18T10:45:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入姓名]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/edit_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[自客123456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
             <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-	at com.test.Base.dealData(Base.java:378)
-	at com.Case.NewTest.f(NewTest.java:14)
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
@@ -295,18 +505,3090 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2017-12-01 18:47:29:523com.thetiger.ldd:id/login_btn控件不存在]]>
+              <![CDATA[在：2018-01-18 10:45:39:902控件：com.thetiger.ziwork:id/edit_et不存在]]>
             </line>
           </reporter-output>
-        </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Case.NewTest@79be0360]" name="afterClass" is-config="true" duration-ms="1909" started-at="2017-12-01T18:47:29Z" finished-at="2017-12-01T18:47:31Z">
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4777" started-at="2018-01-18T10:45:39Z" data-provider="testing" finished-at="2018-01-18T10:45:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入职位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.EditText[@text='如：文案达人']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[开发测试工程师]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:44:679控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4167" started-at="2018-01-18T10:45:44Z" data-provider="testing" finished-at="2018-01-18T10:45:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完成]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/submit_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/webview]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:48:846控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="6190" started-at="2018-01-18T10:45:48Z" data-provider="testing" finished-at="2018-01-18T10:45:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击一键领取]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Strongclick]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:55:037通过坐标点击]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4748" started-at="2018-01-18T10:45:55Z" data-provider="testing" finished-at="2018-01-18T10:45:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击已购领取的小课]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:45:59:785控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4726" started-at="2018-01-18T10:45:59Z" data-provider="testing" finished-at="2018-01-18T10:46:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即播放]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/pause_btn]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:04:511控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="12217" started-at="2018-01-18T10:46:04Z" data-provider="testing" finished-at="2018-01-18T10:46:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[重启下app]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:14:729重启了app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="1901" started-at="2018-01-18T10:46:16Z" data-provider="testing" finished-at="2018-01-18T10:46:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[注册(首页领新人福利)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即进入]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/novice_gift_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:18:631点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="5075" started-at="2018-01-18T10:46:18Z" data-provider="testing" finished-at="2018-01-18T10:46:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入手机号码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_e]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[随机]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:402)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:23:706控件：com.thetiger.ziwork:id/phone_e不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="3922" started-at="2018-01-18T10:46:23Z" data-provider="testing" finished-at="2018-01-18T10:46:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击获取验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:27:627点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="5477" started-at="2018-01-18T10:46:27Z" data-provider="testing" finished-at="2018-01-18T10:46:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/input_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:33:104输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="6511" started-at="2018-01-18T10:46:33Z" data-provider="testing" finished-at="2018-01-18T10:46:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/title_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:39:617点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4342" started-at="2018-01-18T10:46:39Z" data-provider="testing" finished-at="2018-01-18T10:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入姓名]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/edit_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[自客123456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:43:959控件：com.thetiger.ziwork:id/edit_et不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="5036" started-at="2018-01-18T10:46:43Z" data-provider="testing" finished-at="2018-01-18T10:46:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入职位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.EditText[@text='如：文案达人']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[开发测试工程师]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:48:994控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4330" started-at="2018-01-18T10:46:48Z" data-provider="testing" finished-at="2018-01-18T10:46:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完成]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/submit_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/webview]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:46:53:325控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="9692" started-at="2018-01-18T10:46:53Z" data-provider="testing" finished-at="2018-01-18T10:47:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击返回，出现大弹窗]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/home_banner_sdv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:03:019点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="2344" started-at="2018-01-18T10:47:03Z" data-provider="testing" finished-at="2018-01-18T10:47:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[出现弹窗，点掉]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/close_iv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ispopup]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4001" started-at="2018-01-18T10:47:05Z" data-provider="testing" finished-at="2018-01-18T10:47:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击首页新人大礼包占位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/home_middle_banner]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/webview]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:09:365控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4890" started-at="2018-01-18T10:47:09Z" data-provider="testing" finished-at="2018-01-18T10:47:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击一键领取]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Strongclick]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:14:256通过坐标点击]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4086" started-at="2018-01-18T10:47:14Z" data-provider="testing" finished-at="2018-01-18T10:47:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击已购领取的小课]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_target_view]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:18:342控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4088" started-at="2018-01-18T10:47:18Z" data-provider="testing" finished-at="2018-01-18T10:47:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击立即播放]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/guide_bottom_ly]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/pause_btn]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:22:432控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4119" started-at="2018-01-18T10:47:22Z" data-provider="testing" finished-at="2018-01-18T10:47:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[注册完之后认证自客（认证两步流程）]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[返回到详情]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/course_back_iv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/bottom_play_btn]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:26:551控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4056" started-at="2018-01-18T10:47:26Z" data-provider="testing" finished-at="2018-01-18T10:47:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[返回到首页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/course_back_iv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:30:606控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4142" started-at="2018-01-18T10:47:30Z" data-provider="testing" finished-at="2018-01-18T10:47:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击我的]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_mine]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/collection_siv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:34:749控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="3978" started-at="2018-01-18T10:47:34Z" data-provider="testing" finished-at="2018-01-18T10:47:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完善信息]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/zike_info_container]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:38:728控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4084" started-at="2018-01-18T10:47:38Z" data-provider="testing" finished-at="2018-01-18T10:47:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击所在城市]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/belong_city_siv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:42:813控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4100" started-at="2018-01-18T10:47:42Z" data-provider="testing" finished-at="2018-01-18T10:47:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击确定]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:46:915控件：com.thetiger.ziwork:id/confirm不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4020" started-at="2018-01-18T10:47:46Z" data-provider="testing" finished-at="2018-01-18T10:47:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击工作年限]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/work_time_siv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:50:935控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4049" started-at="2018-01-18T10:47:50Z" data-provider="testing" finished-at="2018-01-18T10:47:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击确定]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:54:986控件：com.thetiger.ziwork:id/confirm不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4756" started-at="2018-01-18T10:47:54Z" data-provider="testing" finished-at="2018-01-18T10:47:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[35]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击选择一个技能类别]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.TextView[@text='设计']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:47:59:744控件：//android.widget.TextView[@text='设计']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4048" started-at="2018-01-18T10:47:59Z" data-provider="testing" finished-at="2018-01-18T10:48:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击技能标签]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/click_to_select_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:03:792控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4970" started-at="2018-01-18T10:48:03Z" data-provider="testing" finished-at="2018-01-18T10:48:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[37]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击选择UI]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.TextView[@text='UI']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:08:763控件：//android.widget.TextView[@text='UI']不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4107" started-at="2018-01-18T10:48:08Z" data-provider="testing" finished-at="2018-01-18T10:48:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[38]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击确定]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/confirm_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:12:871控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4030" started-at="2018-01-18T10:48:12Z" data-provider="testing" finished-at="2018-01-18T10:48:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[39]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击下一步]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:16:903控件：com.thetiger.ziwork:id/menu_common不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4157" started-at="2018-01-18T10:48:16Z" data-provider="testing" finished-at="2018-01-18T10:48:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入自我介绍]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/content_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[我是一个非常非常优秀的游戏达人]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:405)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:21:060控件：com.thetiger.ziwork:id/content_et不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4125" started-at="2018-01-18T10:48:21Z" data-provider="testing" finished-at="2018-01-18T10:48:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[41]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击完成，到成功页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/menu_common]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/next_browse_action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:25:188控件：com.thetiger.ziwork:id/menu_common不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="3994" started-at="2018-01-18T10:48:25Z" data-provider="testing" finished-at="2018-01-18T10:48:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[42]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击去首页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/next_browse_action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:229)
+	at com.test.Base.dealData(Base.java:395)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:29:185控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="13020" started-at="2018-01-18T10:48:29Z" data-provider="testing" finished-at="2018-01-18T10:48:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[重启下app]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:40:204重启了app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="1908" started-at="2018-01-18T10:48:42Z" data-provider="testing" finished-at="2018-01-18T10:48:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[登录]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击手机号登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_login_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:44:113点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="5615" started-at="2018-01-18T10:48:44Z" data-provider="testing" finished-at="2018-01-18T10:48:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入手机号码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/phone_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[13700000000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:49:729输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="2019" started-at="2018-01-18T10:48:49Z" data-provider="testing" finished-at="2018-01-18T10:48:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[46]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击获取验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/action_tv]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:51:749点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="6127" started-at="2018-01-18T10:48:51Z" data-provider="testing" finished-at="2018-01-18T10:48:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[47]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[输入验证码]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/input_et]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:48:57:876输入了内容]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4122" started-at="2018-01-18T10:48:57Z" data-provider="testing" finished-at="2018-01-18T10:49:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[48]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击登录，跳转首页]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/login_phone_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:49:01:999点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="12161" started-at="2018-01-18T10:49:02Z" data-provider="testing" finished-at="2018-01-18T10:49:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[重启下app]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[restart]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:49:12:177重启了app]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@e320068]" name="testcase" duration-ms="4961" started-at="2018-01-18T10:49:14Z" data-provider="testing" finished-at="2018-01-18T10:49:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[微信登录]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[点击微信登录]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/wx_login_tv]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[click]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[com.thetiger.ziwork:id/main_tab_home]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 10:49:19:138点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Case.NewTest@e320068]" name="afterClass" is-config="true" duration-ms="4330" started-at="2018-01-18T10:49:19Z" finished-at="2018-01-18T10:49:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Case.NewTest@79be0360]" name="afterSuite" is-config="true" duration-ms="56" started-at="2017-12-01T18:47:31Z" finished-at="2017-12-01T18:47:31Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Case.NewTest@e320068]" name="afterSuite" is-config="true" duration-ms="215" started-at="2018-01-18T10:49:23Z" finished-at="2018-01-18T10:49:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
