@@ -31,7 +31,7 @@ public class writeExcel extends ExcelUtil {
 		FileOutputStream out=outStream(paths);
 		int i=0;	
 		for(String str:li.keySet()){
-			Row fr=sh.getRow(i+1);
+			Row fr=sh.getRow(Integer.parseInt(str));
 			for(int j=1;j<=li.size();j++){
 			sh.autoSizeColumn(i+1);
 		Cell cells=fr.createCell(6);

@@ -1,168 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="29" total="50" passed="21">
+<testng-results skipped="0" failed="31" total="50" passed="19">
   <reporter-output>
     <line>
-      <![CDATA[在：2018-01-18 11:25:12:905点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+      <![CDATA[在：2018-01-18 12:39:36:440点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:17:244控件：com.thetiger.ziwork:id/phone_e不存在]]>
+      <![CDATA[在：2018-01-18 12:39:40:807控件：com.thetiger.ziwork:id/phone_e不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:21:046点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+      <![CDATA[在：2018-01-18 12:39:44:276点击了按钮：com.thetiger.ziwork:id/action_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:26:559输入了内容]]>
+      <![CDATA[在：2018-01-18 12:39:50:380输入了内容]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:33:066点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+      <![CDATA[在：2018-01-18 12:39:57:352点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:37:154控件：com.thetiger.ziwork:id/edit_et不存在]]>
+      <![CDATA[在：2018-01-18 12:40:01:826控件：com.thetiger.ziwork:id/edit_et不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:42:612控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+      <![CDATA[在：2018-01-18 12:40:07:933控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:47:430控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+      <![CDATA[在：2018-01-18 12:40:12:439控件：com.thetiger.ziwork:id/submit_tv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:53:849通过坐标点击]]>
+      <![CDATA[在：2018-01-18 12:40:46:372通过坐标点击]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:25:58:195控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+      <![CDATA[在：2018-01-18 12:40:50:571控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:02:778控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+      <![CDATA[在：2018-01-18 12:40:54:850控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:12:911重启了app]]>
+      <![CDATA[在：2018-01-18 12:41:06:461重启了app]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:16:604点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+      <![CDATA[在：2018-01-18 12:41:09:987点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:20:965控件：com.thetiger.ziwork:id/phone_e不存在]]>
+      <![CDATA[在：2018-01-18 12:41:14:279控件：com.thetiger.ziwork:id/phone_e不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:24:828点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+      <![CDATA[在：2018-01-18 12:41:18:205点击了按钮：com.thetiger.ziwork:id/action_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:30:115输入了内容]]>
+      <![CDATA[在：2018-01-18 12:41:23:534输入了内容]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:36:441点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+      <![CDATA[在：2018-01-18 12:41:30:176点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:40:695控件：com.thetiger.ziwork:id/edit_et不存在]]>
+      <![CDATA[在：2018-01-18 12:41:34:693控件：com.thetiger.ziwork:id/edit_et不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:46:027控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+      <![CDATA[在：2018-01-18 12:41:40:189控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:50:203控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+      <![CDATA[在：2018-01-18 12:41:44:349控件：com.thetiger.ziwork:id/submit_tv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:26:59:511点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+      <![CDATA[在：2018-01-18 12:41:54:728点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:05:883控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
+      <![CDATA[在：2018-01-18 12:42:01:613控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:10:832通过坐标点击]]>
+      <![CDATA[在：2018-01-18 12:42:06:617通过坐标点击]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:14:957控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+      <![CDATA[在：2018-01-18 12:42:10:630控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:19:131控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+      <![CDATA[在：2018-01-18 12:42:14:768控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:23:235控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+      <![CDATA[在：2018-01-18 12:42:18:912控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:27:293控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+      <![CDATA[在：2018-01-18 12:42:23:089控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:31:343控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
+      <![CDATA[在：2018-01-18 12:42:27:224控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:35:490控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
+      <![CDATA[在：2018-01-18 12:42:31:389控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:39:669控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
+      <![CDATA[在：2018-01-18 12:42:35:627控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:43:812控件：com.thetiger.ziwork:id/confirm不存在]]>
+      <![CDATA[在：2018-01-18 12:42:39:726控件：com.thetiger.ziwork:id/confirm不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:47:870控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
+      <![CDATA[在：2018-01-18 12:42:43:844控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:51:950控件：com.thetiger.ziwork:id/confirm不存在]]>
+      <![CDATA[在：2018-01-18 12:42:47:992控件：com.thetiger.ziwork:id/confirm不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:27:57:007控件：//android.widget.TextView[@text='设计']不存在]]>
+      <![CDATA[在：2018-01-18 12:42:53:008控件：//android.widget.TextView[@text='设计']不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:01:375控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
+      <![CDATA[在：2018-01-18 12:42:57:206控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:06:137控件：//android.widget.TextView[@text='UI']不存在]]>
+      <![CDATA[在：2018-01-18 12:43:02:083控件：//android.widget.TextView[@text='UI']不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:10:288控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
+      <![CDATA[在：2018-01-18 12:43:06:128控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:14:357控件：com.thetiger.ziwork:id/menu_common不存在]]>
+      <![CDATA[在：2018-01-18 12:43:10:218控件：com.thetiger.ziwork:id/menu_common不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:18:465控件：com.thetiger.ziwork:id/content_et不存在]]>
+      <![CDATA[在：2018-01-18 12:43:14:346控件：com.thetiger.ziwork:id/content_et不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:22:575控件：com.thetiger.ziwork:id/menu_common不存在]]>
+      <![CDATA[在：2018-01-18 12:43:18:466控件：com.thetiger.ziwork:id/menu_common不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:26:678控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
+      <![CDATA[在：2018-01-18 12:43:22:530控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:36:596重启了app]]>
+      <![CDATA[在：2018-01-18 12:43:32:642重启了app]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:40:448点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
+      <![CDATA[在：2018-01-18 12:43:36:515点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:45:958输入了内容]]>
+      <![CDATA[在：2018-01-18 12:43:41:899输入了内容]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:48:197点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+      <![CDATA[在：2018-01-18 12:43:46:402点击了按钮：com.thetiger.ziwork:id/action_tv]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:54:138输入了内容]]>
+      <![CDATA[在：2018-01-18 12:43:50:428控件：com.thetiger.ziwork:id/input_et不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:28:59:810点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+      <![CDATA[在：2018-01-18 12:43:54:477控件：com.thetiger.ziwork:id/login_phone_tv不存在]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:29:09:742重启了app]]>
+      <![CDATA[在：2018-01-18 12:44:04:308重启了app]]>
     </line>
     <line>
-      <![CDATA[在：2018-01-18 11:29:16:392点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
+      <![CDATA[在：2018-01-18 12:44:22:195点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="262426" started-at="2018-01-18T03:24:59Z" finished-at="2018-01-18T03:29:21Z">
+  <suite name="Default suite" duration-ms="307520" started-at="2018-01-18T04:39:20Z" finished-at="2018-01-18T04:44:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="262426" started-at="2018-01-18T03:24:59Z" finished-at="2018-01-18T03:29:21Z">
+    <test name="Default test" duration-ms="307520" started-at="2018-01-18T04:39:20Z" finished-at="2018-01-18T04:44:28Z">
       <class name="com.Case.NewTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="beforeSuite" is-config="true" duration-ms="3267" started-at="2018-01-18T11:24:56Z" finished-at="2018-01-18T11:24:59Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="beforeSuite" is-config="true" duration-ms="3835" started-at="2018-01-18T12:39:16Z" finished-at="2018-01-18T12:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="BeforeClass" is-config="true" duration-ms="8917" started-at="2018-01-18T11:24:59Z" finished-at="2018-01-18T11:25:08Z">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="BeforeClass" is-config="true" duration-ms="10121" started-at="2018-01-18T12:39:20Z" finished-at="2018-01-18T12:39:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1490" started-at="2018-01-18T11:25:11Z" data-provider="testing" finished-at="2018-01-18T11:25:12Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1688" started-at="2018-01-18T12:39:34Z" data-provider="testing" finished-at="2018-01-18T12:39:36Z">
           <params>
             <param index="0">
               <value>
@@ -202,15 +202,11 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:12:905点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+              <![CDATA[在：2018-01-18 12:39:36:440点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:12Z" finished-at="2018-01-18T11:25:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4337" started-at="2018-01-18T11:25:12Z" data-provider="testing" finished-at="2018-01-18T11:25:17Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4381" started-at="2018-01-18T12:39:36Z" data-provider="testing" finished-at="2018-01-18T12:39:40Z">
           <params>
             <param index="0">
               <value>
@@ -290,11 +286,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:17:244控件：com.thetiger.ziwork:id/phone_e不存在]]>
+              <![CDATA[在：2018-01-18 12:39:40:807控件：com.thetiger.ziwork:id/phone_e不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="3798" started-at="2018-01-18T11:25:17Z" data-provider="testing" finished-at="2018-01-18T11:25:21Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:39:36Z" finished-at="2018-01-18T12:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="3453" started-at="2018-01-18T12:39:40Z" data-provider="testing" finished-at="2018-01-18T12:39:44Z">
           <params>
             <param index="0">
               <value>
@@ -328,25 +328,25 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:21:046点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+              <![CDATA[在：2018-01-18 12:39:44:276点击了按钮：com.thetiger.ziwork:id/action_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:17Z" finished-at="2018-01-18T11:25:17Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:39:40Z" finished-at="2018-01-18T12:39:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:21Z" finished-at="2018-01-18T11:25:21Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:39:44Z" finished-at="2018-01-18T12:39:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5512" started-at="2018-01-18T11:25:21Z" data-provider="testing" finished-at="2018-01-18T11:25:26Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6102" started-at="2018-01-18T12:39:44Z" data-provider="testing" finished-at="2018-01-18T12:39:50Z">
           <params>
             <param index="0">
               <value>
@@ -386,15 +386,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:26:559输入了内容]]>
+              <![CDATA[在：2018-01-18 12:39:50:380输入了内容]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:26Z" finished-at="2018-01-18T11:25:26Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:39:50Z" finished-at="2018-01-18T12:39:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6491" started-at="2018-01-18T11:25:26Z" data-provider="testing" finished-at="2018-01-18T11:25:33Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6971" started-at="2018-01-18T12:39:50Z" data-provider="testing" finished-at="2018-01-18T12:39:57Z">
           <params>
             <param index="0">
               <value>
@@ -428,21 +428,21 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[P]]>
+                <![CDATA[F]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:33:066点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+              <![CDATA[在：2018-01-18 12:39:57:352点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:33Z" finished-at="2018-01-18T11:25:33Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:39:57Z" finished-at="2018-01-18T12:39:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4086" started-at="2018-01-18T11:25:33Z" data-provider="testing" finished-at="2018-01-18T11:25:37Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4470" started-at="2018-01-18T12:39:57Z" data-provider="testing" finished-at="2018-01-18T12:40:01Z">
           <params>
             <param index="0">
               <value>
@@ -472,6 +472,94 @@
             <param index="5">
               <value>
                 <![CDATA[自客123456]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[在：2018-01-18 12:40:01:826控件：com.thetiger.ziwork:id/edit_et不存在]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:40:01Z" finished-at="2018-01-18T12:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6107" started-at="2018-01-18T12:40:01Z" data-provider="testing" finished-at="2018-01-18T12:40:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[个人资料输入职位]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//android.widget.EditText[@text='如：文案达人']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[input]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[开发测试工程师]]>
               </value>
             </param>
             <param index="6">
@@ -522,103 +610,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:37:154控件：com.thetiger.ziwork:id/edit_et不存在]]>
+              <![CDATA[在：2018-01-18 12:40:07:933控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:37Z" finished-at="2018-01-18T11:25:37Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:40:07Z" finished-at="2018-01-18T12:40:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5458" started-at="2018-01-18T11:25:37Z" data-provider="testing" finished-at="2018-01-18T11:25:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[7]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[个人资料输入职位]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[//android.widget.EditText[@text='如：文案达人']]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[input]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[开发测试工程师]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[P]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:513)
-	at org.testng.Assert.assertTrue(Assert.java:42)
-	at org.testng.Assert.assertTrue(Assert.java:52)
-	at com.test.Base.findEl(Base.java:231)
-	at com.test.Base.dealData(Base.java:408)
-	at com.Case.NewTest.testcase(NewTest.java:15)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-            <line>
-              <![CDATA[在：2018-01-18 11:25:42:612控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:42Z" finished-at="2018-01-18T11:25:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4814" started-at="2018-01-18T11:25:42Z" data-provider="testing" finished-at="2018-01-18T11:25:47Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4503" started-at="2018-01-18T12:40:07Z" data-provider="testing" finished-at="2018-01-18T12:40:12Z">
           <params>
             <param index="0">
               <value>
@@ -652,7 +652,7 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[P]]>
+                <![CDATA[F]]>
               </value>
             </param>
           </params>
@@ -698,15 +698,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:47:430控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+              <![CDATA[在：2018-01-18 12:40:12:439控件：com.thetiger.ziwork:id/submit_tv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:47Z" finished-at="2018-01-18T11:25:47Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:40:12Z" finished-at="2018-01-18T12:40:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6419" started-at="2018-01-18T11:25:47Z" data-provider="testing" finished-at="2018-01-18T11:25:53Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="33933" started-at="2018-01-18T12:40:12Z" data-provider="testing" finished-at="2018-01-18T12:40:46Z">
           <params>
             <param index="0">
               <value>
@@ -746,15 +746,11 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:53:849通过坐标点击]]>
+              <![CDATA[在：2018-01-18 12:40:46:372通过坐标点击]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:25:53Z" finished-at="2018-01-18T11:25:53Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4343" started-at="2018-01-18T11:25:53Z" data-provider="testing" finished-at="2018-01-18T11:25:58Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4198" started-at="2018-01-18T12:40:46Z" data-provider="testing" finished-at="2018-01-18T12:40:50Z">
           <params>
             <param index="0">
               <value>
@@ -788,7 +784,7 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
@@ -834,15 +830,19 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:25:58:195控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+              <![CDATA[在：2018-01-18 12:40:50:571控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:25:58Z" finished-at="2018-01-18T11:25:58Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:40:46Z" finished-at="2018-01-18T12:40:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4583" started-at="2018-01-18T11:25:58Z" data-provider="testing" finished-at="2018-01-18T11:26:02Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:40:50Z" finished-at="2018-01-18T12:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4280" started-at="2018-01-18T12:40:50Z" data-provider="testing" finished-at="2018-01-18T12:40:54Z">
           <params>
             <param index="0">
               <value>
@@ -922,11 +922,11 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:02:778控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+              <![CDATA[在：2018-01-18 12:40:54:850控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="12133" started-at="2018-01-18T11:26:02Z" data-provider="testing" finished-at="2018-01-18T11:26:14Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="13609" started-at="2018-01-18T12:40:54Z" data-provider="testing" finished-at="2018-01-18T12:41:08Z">
           <params>
             <param index="0">
               <value>
@@ -960,25 +960,25 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[P]]>
+                <![CDATA[F]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:12:911重启了app]]>
+              <![CDATA[在：2018-01-18 12:41:06:461重启了app]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:02Z" finished-at="2018-01-18T11:26:02Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:40:54Z" finished-at="2018-01-18T12:40:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:14Z" finished-at="2018-01-18T11:26:14Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:41:08Z" finished-at="2018-01-18T12:41:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1691" started-at="2018-01-18T11:26:14Z" data-provider="testing" finished-at="2018-01-18T11:26:16Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1524" started-at="2018-01-18T12:41:08Z" data-provider="testing" finished-at="2018-01-18T12:41:09Z">
           <params>
             <param index="0">
               <value>
@@ -1012,17 +1012,17 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:16:604点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
+              <![CDATA[在：2018-01-18 12:41:09:987点击了按钮：com.thetiger.ziwork:id/novice_gift_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4359" started-at="2018-01-18T11:26:16Z" data-provider="testing" finished-at="2018-01-18T11:26:20Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4290" started-at="2018-01-18T12:41:09Z" data-provider="testing" finished-at="2018-01-18T12:41:14Z">
           <params>
             <param index="0">
               <value>
@@ -1102,15 +1102,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:20:965控件：com.thetiger.ziwork:id/phone_e不存在]]>
+              <![CDATA[在：2018-01-18 12:41:14:279控件：com.thetiger.ziwork:id/phone_e不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:16Z" finished-at="2018-01-18T11:26:16Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:09Z" finished-at="2018-01-18T12:41:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="3862" started-at="2018-01-18T11:26:20Z" data-provider="testing" finished-at="2018-01-18T11:26:24Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="3925" started-at="2018-01-18T12:41:14Z" data-provider="testing" finished-at="2018-01-18T12:41:18Z">
           <params>
             <param index="0">
               <value>
@@ -1150,19 +1150,19 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:24:828点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+              <![CDATA[在：2018-01-18 12:41:18:205点击了按钮：com.thetiger.ziwork:id/action_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:20Z" finished-at="2018-01-18T11:26:20Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:14Z" finished-at="2018-01-18T12:41:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:24Z" finished-at="2018-01-18T11:26:24Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:41:18Z" finished-at="2018-01-18T12:41:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5285" started-at="2018-01-18T11:26:24Z" data-provider="testing" finished-at="2018-01-18T11:26:30Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5327" started-at="2018-01-18T12:41:18Z" data-provider="testing" finished-at="2018-01-18T12:41:23Z">
           <params>
             <param index="0">
               <value>
@@ -1196,21 +1196,21 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[P]]>
+                <![CDATA[F]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:30:115输入了内容]]>
+              <![CDATA[在：2018-01-18 12:41:23:534输入了内容]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T11:26:30Z" finished-at="2018-01-18T11:26:30Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:41:23Z" finished-at="2018-01-18T12:41:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6323" started-at="2018-01-18T11:26:30Z" data-provider="testing" finished-at="2018-01-18T11:26:36Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="6639" started-at="2018-01-18T12:41:23Z" data-provider="testing" finished-at="2018-01-18T12:41:30Z">
           <params>
             <param index="0">
               <value>
@@ -1250,15 +1250,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:36:441点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+              <![CDATA[在：2018-01-18 12:41:30:176点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:36Z" finished-at="2018-01-18T11:26:36Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:30Z" finished-at="2018-01-18T12:41:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4251" started-at="2018-01-18T11:26:36Z" data-provider="testing" finished-at="2018-01-18T11:26:40Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4500" started-at="2018-01-18T12:41:30Z" data-provider="testing" finished-at="2018-01-18T12:41:34Z">
           <params>
             <param index="0">
               <value>
@@ -1292,7 +1292,7 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
@@ -1337,15 +1337,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:40:695控件：com.thetiger.ziwork:id/edit_et不存在]]>
+              <![CDATA[在：2018-01-18 12:41:34:693控件：com.thetiger.ziwork:id/edit_et不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:40Z" finished-at="2018-01-18T11:26:40Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:34Z" finished-at="2018-01-18T12:41:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5330" started-at="2018-01-18T11:26:40Z" data-provider="testing" finished-at="2018-01-18T11:26:46Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5493" started-at="2018-01-18T12:41:34Z" data-provider="testing" finished-at="2018-01-18T12:41:40Z">
           <params>
             <param index="0">
               <value>
@@ -1424,15 +1424,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:46:027控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
+              <![CDATA[在：2018-01-18 12:41:40:189控件：//android.widget.EditText[@text='如：文案达人']不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:46Z" finished-at="2018-01-18T11:26:46Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:40Z" finished-at="2018-01-18T12:41:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4176" started-at="2018-01-18T11:26:46Z" data-provider="testing" finished-at="2018-01-18T11:26:50Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4156" started-at="2018-01-18T12:41:40Z" data-provider="testing" finished-at="2018-01-18T12:41:44Z">
           <params>
             <param index="0">
               <value>
@@ -1466,7 +1466,7 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
@@ -1511,11 +1511,11 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:50:203控件：com.thetiger.ziwork:id/submit_tv不存在]]>
+              <![CDATA[在：2018-01-18 12:41:44:349控件：com.thetiger.ziwork:id/submit_tv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="9306" started-at="2018-01-18T11:26:50Z" data-provider="testing" finished-at="2018-01-18T11:26:59Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="10380" started-at="2018-01-18T12:41:44Z" data-provider="testing" finished-at="2018-01-18T12:41:54Z">
           <params>
             <param index="0">
               <value>
@@ -1549,25 +1549,21 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:26:59:511点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
+              <![CDATA[在：2018-01-18 12:41:54:728点击了按钮：//android.widget.ImageButton[@content-desc='转到上一层级']]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:26:50Z" finished-at="2018-01-18T11:26:50Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:44Z" finished-at="2018-01-18T12:41:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:26:59Z" finished-at="2018-01-18T11:26:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="2339" started-at="2018-01-18T11:26:59Z" data-provider="testing" finished-at="2018-01-18T11:27:01Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="2596" started-at="2018-01-18T12:41:54Z" data-provider="testing" finished-at="2018-01-18T12:41:57Z">
           <params>
             <param index="0">
               <value>
@@ -1608,11 +1604,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:01Z" finished-at="2018-01-18T11:27:01Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:41:54Z" finished-at="2018-01-18T12:41:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4029" started-at="2018-01-18T11:27:01Z" data-provider="testing" finished-at="2018-01-18T11:27:05Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:41:57Z" finished-at="2018-01-18T12:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4284" started-at="2018-01-18T12:41:57Z" data-provider="testing" finished-at="2018-01-18T12:42:01Z">
           <params>
             <param index="0">
               <value>
@@ -1691,15 +1691,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:05:883控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
+              <![CDATA[在：2018-01-18 12:42:01:613控件：com.thetiger.ziwork:id/home_middle_banner不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:05Z" finished-at="2018-01-18T11:27:05Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:01Z" finished-at="2018-01-18T12:42:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4947" started-at="2018-01-18T11:27:05Z" data-provider="testing" finished-at="2018-01-18T11:27:10Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5002" started-at="2018-01-18T12:42:01Z" data-provider="testing" finished-at="2018-01-18T12:42:06Z">
           <params>
             <param index="0">
               <value>
@@ -1739,11 +1739,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:10:832通过坐标点击]]>
+              <![CDATA[在：2018-01-18 12:42:06:617通过坐标点击]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4124" started-at="2018-01-18T11:27:10Z" data-provider="testing" finished-at="2018-01-18T11:27:14Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T12:42:06Z" finished-at="2018-01-18T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4008" started-at="2018-01-18T12:42:06Z" data-provider="testing" finished-at="2018-01-18T12:42:10Z">
           <params>
             <param index="0">
               <value>
@@ -1822,19 +1826,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:14:957控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
+              <![CDATA[在：2018-01-18 12:42:10:630控件：com.thetiger.ziwork:id/guide_target_view不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:10Z" finished-at="2018-01-18T11:27:10Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:42:10Z" finished-at="2018-01-18T12:42:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:14Z" finished-at="2018-01-18T11:27:14Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4175" started-at="2018-01-18T11:27:14Z" data-provider="testing" finished-at="2018-01-18T11:27:19Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4138" started-at="2018-01-18T12:42:10Z" data-provider="testing" finished-at="2018-01-18T12:42:14Z">
           <params>
             <param index="0">
               <value>
@@ -1913,11 +1913,11 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:19:131控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
+              <![CDATA[在：2018-01-18 12:42:14:768控件：com.thetiger.ziwork:id/guide_bottom_ly不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4101" started-at="2018-01-18T11:27:19Z" data-provider="testing" finished-at="2018-01-18T11:27:23Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4142" started-at="2018-01-18T12:42:14Z" data-provider="testing" finished-at="2018-01-18T12:42:18Z">
           <params>
             <param index="0">
               <value>
@@ -1996,19 +1996,19 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:23:235控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+              <![CDATA[在：2018-01-18 12:42:18:912控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:19Z" finished-at="2018-01-18T11:27:19Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:42:14Z" finished-at="2018-01-18T12:42:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:23Z" finished-at="2018-01-18T11:27:23Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:42:18Z" finished-at="2018-01-18T12:42:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4059" started-at="2018-01-18T11:27:23Z" data-provider="testing" finished-at="2018-01-18T11:27:27Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4176" started-at="2018-01-18T12:42:18Z" data-provider="testing" finished-at="2018-01-18T12:42:23Z">
           <params>
             <param index="0">
               <value>
@@ -2087,15 +2087,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:27:293控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
+              <![CDATA[在：2018-01-18 12:42:23:089控件：com.thetiger.ziwork:id/course_back_iv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:27Z" finished-at="2018-01-18T11:27:27Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:23Z" finished-at="2018-01-18T12:42:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4047" started-at="2018-01-18T11:27:27Z" data-provider="testing" finished-at="2018-01-18T11:27:31Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4133" started-at="2018-01-18T12:42:23Z" data-provider="testing" finished-at="2018-01-18T12:42:27Z">
           <params>
             <param index="0">
               <value>
@@ -2129,7 +2129,7 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
@@ -2174,15 +2174,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:31:343控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
+              <![CDATA[在：2018-01-18 12:42:27:224控件：com.thetiger.ziwork:id/main_tab_mine不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:31Z" finished-at="2018-01-18T11:27:31Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:27Z" finished-at="2018-01-18T12:42:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4147" started-at="2018-01-18T11:27:31Z" data-provider="testing" finished-at="2018-01-18T11:27:35Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4161" started-at="2018-01-18T12:42:27Z" data-provider="testing" finished-at="2018-01-18T12:42:31Z">
           <params>
             <param index="0">
               <value>
@@ -2261,15 +2261,11 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:35:490控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
+              <![CDATA[在：2018-01-18 12:42:31:389控件：com.thetiger.ziwork:id/zike_info_container不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:35Z" finished-at="2018-01-18T11:27:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4177" started-at="2018-01-18T11:27:35Z" data-provider="testing" finished-at="2018-01-18T11:27:39Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4239" started-at="2018-01-18T12:42:31Z" data-provider="testing" finished-at="2018-01-18T12:42:35Z">
           <params>
             <param index="0">
               <value>
@@ -2348,15 +2344,19 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:39:669控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
+              <![CDATA[在：2018-01-18 12:42:35:627控件：com.thetiger.ziwork:id/belong_city_siv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T11:27:39Z" finished-at="2018-01-18T11:27:39Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:42:31Z" finished-at="2018-01-18T12:42:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4138" started-at="2018-01-18T11:27:39Z" data-provider="testing" finished-at="2018-01-18T11:27:43Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:42:35Z" finished-at="2018-01-18T12:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4094" started-at="2018-01-18T12:42:35Z" data-provider="testing" finished-at="2018-01-18T12:42:39Z">
           <params>
             <param index="0">
               <value>
@@ -2435,15 +2435,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:43:812控件：com.thetiger.ziwork:id/confirm不存在]]>
+              <![CDATA[在：2018-01-18 12:42:39:726控件：com.thetiger.ziwork:id/confirm不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:43Z" finished-at="2018-01-18T11:27:43Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:39Z" finished-at="2018-01-18T12:42:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4055" started-at="2018-01-18T11:27:43Z" data-provider="testing" finished-at="2018-01-18T11:27:47Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4115" started-at="2018-01-18T12:42:39Z" data-provider="testing" finished-at="2018-01-18T12:42:43Z">
           <params>
             <param index="0">
               <value>
@@ -2522,15 +2522,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:47:870控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
+              <![CDATA[在：2018-01-18 12:42:43:844控件：com.thetiger.ziwork:id/work_time_siv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:47Z" finished-at="2018-01-18T11:27:47Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:43Z" finished-at="2018-01-18T12:42:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4077" started-at="2018-01-18T11:27:47Z" data-provider="testing" finished-at="2018-01-18T11:27:51Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4144" started-at="2018-01-18T12:42:43Z" data-provider="testing" finished-at="2018-01-18T12:42:47Z">
           <params>
             <param index="0">
               <value>
@@ -2609,15 +2609,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:51:950控件：com.thetiger.ziwork:id/confirm不存在]]>
+              <![CDATA[在：2018-01-18 12:42:47:992控件：com.thetiger.ziwork:id/confirm不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:27:51Z" finished-at="2018-01-18T11:27:51Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:47Z" finished-at="2018-01-18T12:42:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5054" started-at="2018-01-18T11:27:51Z" data-provider="testing" finished-at="2018-01-18T11:27:57Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5013" started-at="2018-01-18T12:42:47Z" data-provider="testing" finished-at="2018-01-18T12:42:53Z">
           <params>
             <param index="0">
               <value>
@@ -2696,15 +2696,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:27:57:007控件：//android.widget.TextView[@text='设计']不存在]]>
+              <![CDATA[在：2018-01-18 12:42:53:008控件：//android.widget.TextView[@text='设计']不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:27:57Z" finished-at="2018-01-18T11:27:57Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:42:53Z" finished-at="2018-01-18T12:42:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4368" started-at="2018-01-18T11:27:57Z" data-provider="testing" finished-at="2018-01-18T11:28:01Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4194" started-at="2018-01-18T12:42:53Z" data-provider="testing" finished-at="2018-01-18T12:42:57Z">
           <params>
             <param index="0">
               <value>
@@ -2783,15 +2783,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:01:375控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
+              <![CDATA[在：2018-01-18 12:42:57:206控件：com.thetiger.ziwork:id/click_to_select_tv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:01Z" finished-at="2018-01-18T11:28:01Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:42:57Z" finished-at="2018-01-18T12:42:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4759" started-at="2018-01-18T11:28:01Z" data-provider="testing" finished-at="2018-01-18T11:28:06Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4877" started-at="2018-01-18T12:42:57Z" data-provider="testing" finished-at="2018-01-18T12:43:02Z">
           <params>
             <param index="0">
               <value>
@@ -2870,15 +2870,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:06:137控件：//android.widget.TextView[@text='UI']不存在]]>
+              <![CDATA[在：2018-01-18 12:43:02:083控件：//android.widget.TextView[@text='UI']不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:06Z" finished-at="2018-01-18T11:28:06Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:43:02Z" finished-at="2018-01-18T12:43:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4150" started-at="2018-01-18T11:28:06Z" data-provider="testing" finished-at="2018-01-18T11:28:10Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4043" started-at="2018-01-18T12:43:02Z" data-provider="testing" finished-at="2018-01-18T12:43:06Z">
           <params>
             <param index="0">
               <value>
@@ -2957,15 +2957,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:10:288控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
+              <![CDATA[在：2018-01-18 12:43:06:128控件：com.thetiger.ziwork:id/confirm_tv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:10Z" finished-at="2018-01-18T11:28:10Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T12:43:06Z" finished-at="2018-01-18T12:43:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4066" started-at="2018-01-18T11:28:10Z" data-provider="testing" finished-at="2018-01-18T11:28:14Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4085" started-at="2018-01-18T12:43:06Z" data-provider="testing" finished-at="2018-01-18T12:43:10Z">
           <params>
             <param index="0">
               <value>
@@ -3044,11 +3044,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:14:357控件：com.thetiger.ziwork:id/menu_common不存在]]>
+              <![CDATA[在：2018-01-18 12:43:10:218控件：com.thetiger.ziwork:id/menu_common不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4108" started-at="2018-01-18T11:28:14Z" data-provider="testing" finished-at="2018-01-18T11:28:18Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:43:10Z" finished-at="2018-01-18T12:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4126" started-at="2018-01-18T12:43:10Z" data-provider="testing" finished-at="2018-01-18T12:43:14Z">
           <params>
             <param index="0">
               <value>
@@ -3127,19 +3131,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:18:465控件：com.thetiger.ziwork:id/content_et不存在]]>
+              <![CDATA[在：2018-01-18 12:43:14:346控件：com.thetiger.ziwork:id/content_et不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:14Z" finished-at="2018-01-18T11:28:14Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:43:14Z" finished-at="2018-01-18T12:43:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:18Z" finished-at="2018-01-18T11:28:18Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4110" started-at="2018-01-18T11:28:18Z" data-provider="testing" finished-at="2018-01-18T11:28:22Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4116" started-at="2018-01-18T12:43:14Z" data-provider="testing" finished-at="2018-01-18T12:43:18Z">
           <params>
             <param index="0">
               <value>
@@ -3218,15 +3218,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:22:575控件：com.thetiger.ziwork:id/menu_common不存在]]>
+              <![CDATA[在：2018-01-18 12:43:18:466控件：com.thetiger.ziwork:id/menu_common不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:22Z" finished-at="2018-01-18T11:28:22Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="2" started-at="2018-01-18T12:43:18Z" finished-at="2018-01-18T12:43:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4101" started-at="2018-01-18T11:28:22Z" data-provider="testing" finished-at="2018-01-18T11:28:26Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4059" started-at="2018-01-18T12:43:18Z" data-provider="testing" finished-at="2018-01-18T12:43:22Z">
           <params>
             <param index="0">
               <value>
@@ -3305,11 +3305,15 @@
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:26:678控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
+              <![CDATA[在：2018-01-18 12:43:22:530控件：com.thetiger.ziwork:id/next_browse_action_tv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="11916" started-at="2018-01-18T11:28:26Z" data-provider="testing" finished-at="2018-01-18T11:28:38Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:43:22Z" finished-at="2018-01-18T12:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="12108" started-at="2018-01-18T12:43:22Z" data-provider="testing" finished-at="2018-01-18T12:43:34Z">
           <params>
             <param index="0">
               <value>
@@ -3349,19 +3353,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:36:596重启了app]]>
+              <![CDATA[在：2018-01-18 12:43:32:642重启了app]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:26Z" finished-at="2018-01-18T11:28:26Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:43:34Z" finished-at="2018-01-18T12:43:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:28:38Z" finished-at="2018-01-18T11:28:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1849" started-at="2018-01-18T11:28:38Z" data-provider="testing" finished-at="2018-01-18T11:28:40Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="1866" started-at="2018-01-18T12:43:34Z" data-provider="testing" finished-at="2018-01-18T12:43:36Z">
           <params>
             <param index="0">
               <value>
@@ -3401,15 +3401,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:40:448点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
+              <![CDATA[在：2018-01-18 12:43:36:515点击了按钮：com.thetiger.ziwork:id/phone_login_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:28:40Z" finished-at="2018-01-18T11:28:40Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:43:36Z" finished-at="2018-01-18T12:43:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5508" started-at="2018-01-18T11:28:40Z" data-provider="testing" finished-at="2018-01-18T11:28:45Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5383" started-at="2018-01-18T12:43:36Z" data-provider="testing" finished-at="2018-01-18T12:43:41Z">
           <params>
             <param index="0">
               <value>
@@ -3449,15 +3449,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:45:958输入了内容]]>
+              <![CDATA[在：2018-01-18 12:43:41:899输入了内容]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T11:28:45Z" finished-at="2018-01-18T11:28:45Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:43:41Z" finished-at="2018-01-18T12:43:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="2237" started-at="2018-01-18T11:28:45Z" data-provider="testing" finished-at="2018-01-18T11:28:48Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4501" started-at="2018-01-18T12:43:41Z" data-provider="testing" finished-at="2018-01-18T12:43:46Z">
           <params>
             <param index="0">
               <value>
@@ -3497,11 +3497,15 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:48:197点击了按钮：com.thetiger.ziwork:id/action_tv]]>
+              <![CDATA[在：2018-01-18 12:43:46:402点击了按钮：com.thetiger.ziwork:id/action_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5941" started-at="2018-01-18T11:28:48Z" data-provider="testing" finished-at="2018-01-18T11:28:54Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:43:46Z" finished-at="2018-01-18T12:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4023" started-at="2018-01-18T12:43:46Z" data-provider="testing" finished-at="2018-01-18T12:43:50Z">
           <params>
             <param index="0">
               <value>
@@ -3539,21 +3543,56 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:408)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:54:138输入了内容]]>
+              <![CDATA[在：2018-01-18 12:43:50:428控件：com.thetiger.ziwork:id/input_et不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:48Z" finished-at="2018-01-18T11:28:48Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:43:50Z" finished-at="2018-01-18T12:43:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:54Z" finished-at="2018-01-18T11:28:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="5671" started-at="2018-01-18T11:28:54Z" data-provider="testing" finished-at="2018-01-18T11:28:59Z">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4046" started-at="2018-01-18T12:43:50Z" data-provider="testing" finished-at="2018-01-18T12:43:54Z">
           <params>
             <param index="0">
               <value>
@@ -3591,17 +3630,52 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.test.Base.findEl(Base.java:231)
+	at com.test.Base.dealData(Base.java:398)
+	at com.Case.NewTest.testcase(NewTest.java:15)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:28:59:810点击了按钮：com.thetiger.ziwork:id/login_phone_tv]]>
+              <![CDATA[在：2018-01-18 12:43:54:477控件：com.thetiger.ziwork:id/login_phone_tv不存在]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:28:59Z" finished-at="2018-01-18T11:28:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="11930" started-at="2018-01-18T11:28:59Z" data-provider="testing" finished-at="2018-01-18T11:29:11Z">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="11827" started-at="2018-01-18T12:43:54Z" data-provider="testing" finished-at="2018-01-18T12:44:06Z">
           <params>
             <param index="0">
               <value>
@@ -3641,15 +3715,19 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:29:09:742重启了app]]>
+              <![CDATA[在：2018-01-18 12:44:04:308重启了app]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="5" started-at="2018-01-18T11:29:11Z" finished-at="2018-01-18T11:29:11Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T12:43:54Z" finished-at="2018-01-18T12:43:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="4645" started-at="2018-01-18T11:29:11Z" data-provider="testing" finished-at="2018-01-18T11:29:16Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="5" started-at="2018-01-18T12:44:06Z" finished-at="2018-01-18T12:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failDeal -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Case.NewTest@5a8e6209]" name="testcase" duration-ms="15881" started-at="2018-01-18T12:44:06Z" data-provider="testing" finished-at="2018-01-18T12:44:22Z">
           <params>
             <param index="0">
               <value>
@@ -3683,25 +3761,25 @@
             </param>
             <param index="6">
               <value>
-                <![CDATA[F]]>
+                <![CDATA[P]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[在：2018-01-18 11:29:16:392点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
+              <![CDATA[在：2018-01-18 12:44:22:195点击了按钮：com.thetiger.ziwork:id/wx_login_tv]]>
             </line>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="0" started-at="2018-01-18T11:29:16Z" finished-at="2018-01-18T11:29:16Z">
+        <test-method status="PASS" signature="failDeal()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="failDeal" is-config="true" duration-ms="1" started-at="2018-01-18T12:44:22Z" finished-at="2018-01-18T12:44:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- failDeal -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="afterClass" is-config="true" duration-ms="5504" started-at="2018-01-18T11:29:16Z" finished-at="2018-01-18T11:29:21Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="afterClass" is-config="true" duration-ms="6153" started-at="2018-01-18T12:44:22Z" finished-at="2018-01-18T12:44:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="afterSuite" is-config="true" duration-ms="52" started-at="2018-01-18T11:29:21Z" finished-at="2018-01-18T11:29:22Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Case.NewTest@5a8e6209]" name="afterSuite" is-config="true" duration-ms="205" started-at="2018-01-18T12:44:28Z" finished-at="2018-01-18T12:44:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
