@@ -363,7 +363,7 @@ public class Base {
 	 */
 	public static String phoneNum() {
 		int i = 10000000 + (int) (Math.random() * 99999999);
-		String pn = "137" + Integer.toString(i);
+		String pn = "131" + Integer.toString(i);
 		return pn;
 	}
 
@@ -392,6 +392,9 @@ public class Base {
 		}
 		else if(s2.equalsIgnoreCase("ispopup")){
 			i=7;
+		}
+		else if(s2.equalsIgnoreCase("scrolldown")){
+			i=8;
 		}
 		
 		if(i==1){
@@ -451,7 +454,21 @@ public class Base {
 				result.put(s0,"P");
 			}
 		}
-		
+		else if(i==8){
+			int t=0;
+			int x=(int) (0.5*driver.manage().window().getSize().width);
+			int y1=(int) (0.2*driver.manage().window().getSize().height);
+			int y2=(int) (0.8*driver.manage().window().getSize().height);
+			while(true){
+				t++;
+				driver.swipe(x, y2, x, y1, 500);
+				if(isPlay(s1)){
+					break;
+				}
+				if(t>=3){break;
+				}
+			}
+		}	
 		
 		}
 	@AfterMethod
