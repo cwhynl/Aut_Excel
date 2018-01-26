@@ -421,7 +421,7 @@ public class Base {
 			}
 		}else if(i==4){
 			StringClick();
-			sleep(1000);
+			sleep(1500);
 			result.put(s0,writeExcel.res(s3));
 			print("通过坐标点击");
 		}
@@ -467,9 +467,8 @@ public class Base {
 				}
 				if(t>=3){break;
 				}
-				result.put(s0,writeExcel.res(s1));
 			}
-			
+			result.put(s0,writeExcel.res(s3));
 		}	
 		
 		}
