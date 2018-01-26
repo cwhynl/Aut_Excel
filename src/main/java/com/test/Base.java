@@ -467,7 +467,9 @@ public class Base {
 				}
 				if(t>=3){break;
 				}
+				result.put(s0,writeExcel.res(s1));
 			}
+			
 		}	
 		
 		}
