@@ -1,120 +1,136 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 50, Failures: 29, Errors: 0, Skipped: 0, Time elapsed: 273.188 s <<< FAILURE! - in TestSuite
-testcase(com.Case.NewTest)  Time elapsed: 5.012 s  <<< FAILURE!
+Tests run: 111, Failures: 29, Errors: 0, Skipped: 0, Time elapsed: 655.065 s <<< FAILURE! - in TestSuite
+testcase(com.Case.NewTest)  Time elapsed: 4.86 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.566 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.7 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 6.087 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.601 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.491 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.569 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.747 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.837 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 5.02 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.743 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.288 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.761 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.542 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.32 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 5.262 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.632 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.573 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.575 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.256 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.622 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.088 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.589 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.18 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.632 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.222 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.596 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.115 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.638 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 3.997 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.543 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.056 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.884 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.17 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.485 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.009 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.697 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.083 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.575 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.225 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.635 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.706 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 5.488 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.451 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 6.394 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 5.056 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4.902 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.061 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+testcase(com.Case.NewTest)  Time elapsed: 8.645 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-20170725RR', ip: '192.168.5.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: driver.version: AndroidDriver
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.224 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 14.086 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.027 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 14.078 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.033 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+testcase(com.Case.NewTest)  Time elapsed: 1.004 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-20170725RR', ip: '192.168.5.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
 
-testcase(com.Case.NewTest)  Time elapsed: 4.008 s  <<< FAILURE!
+testcase(com.Case.NewTest)  Time elapsed: 4 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 

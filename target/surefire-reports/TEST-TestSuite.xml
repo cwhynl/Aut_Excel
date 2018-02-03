@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="273.188" tests="50" errors="0" skipped="0" failures="29">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="655.065" tests="111" errors="0" skipped="0" failures="29">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="D:\java\jdk\jre\bin"/>
+    <property name="sun.boot.library.path" value="D:\java\jre\bin"/>
     <property name="java.vm.version" value="25.131-b11"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="D:\Workspace\Aut"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -19,273 +18,374 @@
     <property name="user.dir" value="D:\Workspace\Aut"/>
     <property name="java.runtime.version" value="1.8.0_131-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="D:\java\jdk\jre\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="D:\java\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="D:\maven\apache-maven-3.5.0\bin\..\bin\m2.conf"/>
+    <property name="classworlds.conf" value="D:\Workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5768936541938711236.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.library.path" value="D:\java\jdk\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\jdk\bin;D:\java\jdk\jre\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\java\sdk\SDK\tools;D:\java\sdk\SDK\platform-tools;E:\nodejs\;D:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\bin;D:\maven\apache-maven-3.5.0\bin;E:\moniqi\Nox\bin;E:\Git\TortoiseGit\bin;C:\Users\Administrator\AppData\Local\Programs\Fiddler;C:\Users\Administrator\AppData\Roaming\npm;."/>
-    <property name="maven.conf" value="D:\maven\apache-maven-3.5.0\bin\../conf"/>
+    <property name="java.library.path" value="D:\java\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:/java/jdk/bin/../jre/bin/server;D:/java/jdk/bin/../jre/bin;D:/java/jdk/bin/../jre/lib/amd64;D:\java\jdk\bin;D:\java\jdk\jre\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\java\sdk\SDK\tools;D:\java\sdk\SDK\platform-tools;E:\nodejs\;D:\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\bin;D:\maven\apache-maven-3.5.0\bin;E:\moniqi\Nox\bin;E:\Git\TortoiseGit\bin;C:\Users\Administrator\AppData\Local\Programs\Fiddler;C:\Users\Administrator\AppData\Roaming\npm;D:\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="6.1"/>
-    <property name="library.jansi.path" value="D:\maven\apache-maven-3.5.0\bin\..\lib\jansi-native\windows64"/>
     <property name="user.home" value="C:\Users\Administrator"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="GBK"/>
+    <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="Administrator"/>
-    <property name="java.class.path" value="D:\maven\apache-maven-3.5.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="/D:/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.0.20140605-2032/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="D:\java\jdk\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="D:\java\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="zh"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="1.8.0_131"/>
-    <property name="java.ext.dirs" value="D:\java\jdk\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="D:\java\jdk\jre\lib\resources.jar;D:\java\jdk\jre\lib\rt.jar;D:\java\jdk\jre\lib\sunrsasign.jar;D:\java\jdk\jre\lib\jsse.jar;D:\java\jdk\jre\lib\jce.jar;D:\java\jdk\jre\lib\charsets.jar;D:\java\jdk\jre\lib\jfr.jar;D:\java\jdk\jre\classes"/>
-    <property name="sun.stderr.encoding" value="ms936"/>
+    <property name="java.ext.dirs" value="D:\java\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\java\jre\lib\resources.jar;D:\java\jre\lib\rt.jar;D:\java\jre\lib\sunrsasign.jar;D:\java\jre\lib\jsse.jar;D:\java\jre\lib\jce.jar;D:\java\jre\lib\charsets.jar;D:\java\jre\lib\jfr.jar;D:\java\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="D:\maven\apache-maven-3.5.0\bin\.."/>
+    <property name="maven.home" value="D:\Workspace\Aut\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.stdout.encoding" value="ms936"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testcase" classname="com.Case.NewTest" time="1.566"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="5.012">
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.322"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.513"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.052"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.279"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.048"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.471"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="10.286"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.069"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.871"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="3.921"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.33"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="13.612"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.548"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.195"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.141"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="3.72"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.193"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="10.759"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.626"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="8.901"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.999"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.305"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.963"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="7.994"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="8.146"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.655"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="7.96"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="9.802"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.233"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.492"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.219"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.429"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="9.002"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.4"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.477"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="9.254"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.055"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.298"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="9.032"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.527"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.3"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.688"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.135"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.926"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.651"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.689"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.267"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.001"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="8.767"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.386"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.17"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.641"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.919"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.528"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="3.883"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.215"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.149"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.909"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.608"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.339"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.43"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="3.575"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.205"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="3.544"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="8.776"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.689"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.448"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.465"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.069"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.997"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.226"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.828"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="14.224"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.434"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.408"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="2.058"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.306"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.83"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="3.053"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.86">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:21:12:352控件：com.thetiger.ziwork:id/phone_e不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:17:078isFail的状态：false
+在：2018-02-01 18:39:21:916控件：com.thetiger.ziwork:id/zike_entry不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="3.875"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="5.749"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="6.64"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.566">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.7">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:21:33:197控件：com.thetiger.ziwork:id/edit_et不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:21:940isFail的状态：true
+在：2018-02-01 18:39:26:637控件：com.thetiger.ziwork:id/main_tab_home不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="6.087">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.601">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:21:39:284控件：//android.widget.EditText[@text='如：文案达人']不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:26:639isFail的状态：true
+在：2018-02-01 18:39:31:241控件：com.thetiger.ziwork:id/article_entry不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.491">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.569">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:21:43:774控件：com.thetiger.ziwork:id/submit_tv不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:31:243isFail的状态：true
+在：2018-02-01 18:39:36:809控件：//android.widget.TextView[@text='市场']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="7.381"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.747">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.837">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:21:55:903控件：com.thetiger.ziwork:id/guide_target_view不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:36:811isFail的状态：true
+在：2018-02-01 18:39:42:646控件：//android.support.v7.widget.RecyclerView[@resource-id='com.thetiger.ziwork:id/recycler_view']/android.widget.FrameLayout不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="5.02">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.743">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:22:00:923控件：com.thetiger.ziwork:id/guide_bottom_ly不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:42:648isFail的状态：true
+在：2018-02-01 18:39:47:390控件：com.thetiger.ziwork:id/collect_v不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="12.926"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="1.861"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.288">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.761">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:22:20:000控件：com.thetiger.ziwork:id/phone_e不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:47:392isFail的状态：true
+在：2018-02-01 18:39:52:151控件：com.thetiger.ziwork:id/share_v不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="3.82"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="6.256"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="6.567"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.542">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.32">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:22:41:185控件：com.thetiger.ziwork:id/edit_et不存在
+    <system-out><![CDATA[在：2018-02-01 18:39:52:153isFail的状态：true
+在：2018-02-01 18:39:57:471控件：com.thetiger.ziwork:id/cancel_tv不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="5.262">
+  <testcase name="testcase" classname="com.Case.NewTest" time="11.531"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.632">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:22:46:447控件：//android.widget.EditText[@text='如：文案达人']不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:09:005isFail的状态：false
+在：2018-02-01 18:40:14:637控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.573">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.575">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:22:51:020控件：com.thetiger.ziwork:id/submit_tv不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:14:639isFail的状态：true
+在：2018-02-01 18:40:20:215控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="9.78"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="2.372"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.256">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.622">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:07:428控件：com.thetiger.ziwork:id/home_middle_banner不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:20:217isFail的状态：true
+在：2018-02-01 18:40:24:838控件：com.thetiger.ziwork:id/course_entry不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.838"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.088">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.589">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:16:351控件：com.thetiger.ziwork:id/guide_target_view不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:24:839isFail的状态：true
+在：2018-02-01 18:40:30:424控件：//android.support.v7.widget.RecyclerView[@resource-id='com.thetiger.ziwork:id/recycler_view']/android.widget.RelativeLayout不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.18">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.632">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:20:534控件：com.thetiger.ziwork:id/guide_bottom_ly不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:30:427isFail的状态：true
+在：2018-02-01 18:40:35:060控件：com.thetiger.ziwork:id/course_back_iv不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.222">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.596">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:24:755控件：com.thetiger.ziwork:id/course_back_iv不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:35:062isFail的状态：true
+在：2018-02-01 18:40:40:657控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.115">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.638">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:28:870控件：com.thetiger.ziwork:id/course_back_iv不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:40:659isFail的状态：true
+在：2018-02-01 18:40:45:299控件：com.thetiger.ziwork:id/book_entry不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="3.997">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.543">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:32:869控件：com.thetiger.ziwork:id/main_tab_mine不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:45:301isFail的状态：true
+在：2018-02-01 18:40:50:844控件：//android.support.v7.widget.RecyclerView[@resource-id='com.thetiger.ziwork:id/recycler_view']/android.widget.RelativeLayout不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.056">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.884">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:36:924控件：com.thetiger.ziwork:id/zike_info_container不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:50:845isFail的状态：true
+在：2018-02-01 18:40:56:722控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.17">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.485">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:41:079控件：com.thetiger.ziwork:id/belong_city_siv不存在
+    <system-out><![CDATA[在：2018-02-01 18:40:56:723isFail的状态：true
+在：2018-02-01 18:41:02:213控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.009">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.697">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:45:102控件：com.thetiger.ziwork:id/confirm不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:02:216isFail的状态：true
+在：2018-02-01 18:41:06:913控件：com.thetiger.ziwork:id/facade_title_container不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.083">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.575">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:49:187控件：com.thetiger.ziwork:id/work_time_siv不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:06:915isFail的状态：true
+在：2018-02-01 18:41:12:485控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.225">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.635">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:53:412控件：com.thetiger.ziwork:id/confirm不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:12:487isFail的状态：true
+在：2018-02-01 18:41:18:124控件：//android.widget.LinearLayout[@resource-id='com.thetiger.ziwork:id/article_facade_container']/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.706">
+  <testcase name="testcase" classname="com.Case.NewTest" time="5.488">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:23:58:117控件：//android.widget.TextView[@text='设计']不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:18:126isFail的状态：true
+在：2018-02-01 18:41:23:612控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.451">
+  <testcase name="testcase" classname="com.Case.NewTest" time="12.386"/>
+  <testcase name="testcase" classname="com.Case.NewTest" time="6.394">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:02:566控件：com.thetiger.ziwork:id/click_to_select_tv不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:35:989isFail的状态：false
+在：2018-02-01 18:41:42:394控件：//android.widget.LinearLayout[@resource-id='com.thetiger.ziwork:id/course_facade_container']/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="5.056">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4.902">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:07:624控件：//android.widget.TextView[@text='UI']不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:42:396isFail的状态：true
+在：2018-02-01 18:41:47:297控件：com.thetiger.ziwork:id/course_back_iv不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.061">
-    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+  <testcase name="testcase" classname="com.Case.NewTest" time="8.645">
+    <failure message="org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;USER-20170725RR&apos;, ip: &apos;192.168.5.96&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-20170725RR', ip: '192.168.5.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: driver.version: AndroidDriver
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:11:686控件：com.thetiger.ziwork:id/confirm_tv不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:47:299isFail的状态：true
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.224">
+  <testcase name="testcase" classname="com.Case.NewTest" time="14.086">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:15:902控件：com.thetiger.ziwork:id/menu_common不存在
+    <system-out><![CDATA[在：2018-02-01 18:41:55:942isFail的状态：true
+在：2018-02-01 18:42:10:021控件：com.thetiger.ziwork:id/cover_sdv不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.027">
+  <testcase name="testcase" classname="com.Case.NewTest" time="14.078">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:19:936控件：com.thetiger.ziwork:id/content_et不存在
+    <system-out><![CDATA[在：2018-02-01 18:42:10:022isFail的状态：true
+在：2018-02-01 18:42:24:109控件：//android.widget.ImageButton[@content-desc='转到上一层级']不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.033">
-    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+  <testcase name="testcase" classname="com.Case.NewTest" time="1.004">
+    <failure message="org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect&#10;Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;&#10;System info: host: &apos;USER-20170725RR&apos;, ip: &apos;192.168.5.96&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;&#10;Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
+org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-20170725RR', ip: '192.168.5.96', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:23:969控件：com.thetiger.ziwork:id/menu_common不存在
+    <system-out><![CDATA[在：2018-02-01 18:42:24:110isFail的状态：true
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.008">
+  <testcase name="testcase" classname="com.Case.NewTest" time="4">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at com.Case.NewTest.testcase(NewTest.java:14)
+	at com.Case.NewTest.testcase(NewTest.java:15)
 </failure>
-    <system-out><![CDATA[在：2018-01-17 21:24:27:975控件：com.thetiger.ziwork:id/next_browse_action_tv不存在
+    <system-out><![CDATA[在：2018-02-01 18:42:25:114isFail的状态：true
+在：2018-02-01 18:42:29:115控件：com.thetiger.ziwork:id/wx_login_tv不存在
 ]]></system-out>
   </testcase>
-  <testcase name="testcase" classname="com.Case.NewTest" time="12.191"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="2.025"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="6.403"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="2.544"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="5.61"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.5"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="12.163"/>
-  <testcase name="testcase" classname="com.Case.NewTest" time="4.954"/>
 </testsuite>

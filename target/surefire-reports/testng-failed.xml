@@ -17,7 +17,7 @@
           <include name="BeforeClass"/>
           <include name="afterClass"/>
           <include name="beforeSuite"/>
-          <include name="testcase" invocation-numbers="1 5 6 7 9 10 13 17 18 19 22 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 46 47"/>
+          <include name="testcase" invocation-numbers="80 81 82 83 84 85 86 87 89 90 91 92 93 94 95 96 97 98 99 100 101 102 104 105 106 107 108 109 110"/>
           <include name="failDeal"/>
           <include name="afterSuite"/>
         </methods>

@@ -45,7 +45,7 @@ public class Base {
 				break;
 			}
 			sleep(500);
-			if (i == 3) {
+			if (i == 4) {
 				break;
 			}
 		}
@@ -369,9 +369,9 @@ public class Base {
 
 	/**
 	 * 处理数据
-	 * @param s1
-	 * @param s2
-	 * @param s3
+	 * @param s1操作的控件
+	 * @param s2操作的类型
+	 * @param s3断言的控件
 	 */
 	public static void dealData(String s0,String s1,String s2,String s3){
 		readExcel.s=s0;
@@ -396,6 +396,10 @@ public class Base {
 		else if(s2.equalsIgnoreCase("scrolldown")){
 			i=8;
 		}
+		else if(s2.equalsIgnoreCase("wait")){
+			i=9;
+		}
+		
 		
 		if(i==1){
 			findEl(s1).click();
@@ -457,8 +461,8 @@ public class Base {
 		else if(i==8){
 			int t=0;
 			int x=(int) (0.5*driver.manage().window().getSize().width);
-			int y1=(int) (0.2*driver.manage().window().getSize().height);
-			int y2=(int) (0.8*driver.manage().window().getSize().height);
+			int y1=(int) (0.3*driver.manage().window().getSize().height);
+			int y2=(int) (0.6*driver.manage().window().getSize().height);
 			while(true){
 				t++;
 				driver.swipe(x, y2, x, y1, 500);
