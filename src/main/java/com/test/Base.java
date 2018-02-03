@@ -301,7 +301,7 @@ public class Base {
 		cmdCtrl.stopServer("4723");
 		cmdCtrl.openHtml();
 	}
-	final static int i=2;
+	final static int i=3;
 	@SuppressWarnings("rawtypes")
 	@BeforeClass
 	public static void BeforeClass(){
